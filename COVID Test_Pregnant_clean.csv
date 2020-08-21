@@ -1,0 +1,1490 @@
+ID,RevenueLocation,EncounterDepartment,AdmitDate/Time,DischargeDate,Service,Sex,OBStatus,Age,Race,Ethnicity,ZIPCode,PrimaryPayer,GA,ResultDate,Abnormal?,Value,Infection,VentON
+1,WOODHULL MEDICAL CENTER,WO IP 7200 MOTHER/BABY , 03/19/2020 2247,3/20/2020,Obstetrics,Female,Pregnant,34,Black,,11238,Unitedhealthcare McD,50w4d,3/23/2020,Abnormal,"See Report
+Presumptive Pos","COVID-19 (confirmed), COVID-19 (rule out)",
+2,BELLEVUE HOSPITAL CENTER,BE ED PEDIATRIC , 03/19/2020 1212,3/19/2020,Emergency,Female,Pregnant,21,Other,Unknown ,10467,Not on file,48w2d,3/26/2020,,Not Detected,,
+3,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 03/30/2020 1010,3/30/2020,Obstetrics,Female,Pregnant,26,Black,Unknown ,11101,Not on file,47w0d,3/31/2020,,"see note
+Not Detected",,
+4,ELMHURST HOSPITAL CENTER,EL ED ADULT , 03/18/2020 0823,3/18/2020,Emergency,Female,Pregnant,22,Black,,11370,Not on file,46w3d,3/22/2020,Abnormal,Detected,,
+5,CONEY ISLAND HOSPITAL CENTER,CI EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,32,Asian,Non-Hispanic ,11436,Not on file,87w2d,3/26/2020,Abnormal,"see epic media
+Positive",,
+6,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 03/19/2020 2140,3/20/2020,Obstetrics,Female,Pregnant,19,Other,,11206,New York Medicaid,43w3d,3/24/2020,,"SEE REPORT
+Not Detected",,
+7,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 03/17/2020 1824,3/17/2020,Emergency,Female,Pregnant,29,Black,Unknown ,11234,Not on file,43w0d,3/22/2020,Abnormal,Detected,,
+8,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 03/20/2020 0918,3/20/2020,Adult ED,Female,Pregnant,22,Black,,11224,Not on file,,3/22/2020,Abnormal,"Presumptive Pos
+see epi/media",,
+9,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 03/23/2020 2009,3/27/2020,Obstetrics,Female,Pregnant,33,Other,Unknown ,10468,Not on file,41w2d,3/27/2020,,"See Report
+Not Detected",,
+10,LINCOLN MEDICAL CENTER,LI ED ADULT , 03/21/2020 1347,4/4/2020,Medicine,Female,Pregnant,34,Other,,11221,Metroplus McD,40w1d,3/30/2020,Abnormal,"SEE REPORT
+Positive",,
+11,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 03/25/2020 1108,3/25/2020,Obstetrics,Female,Pregnant,37,Other,Colombian ,11370,Not on file,40w0d,3/26/2020,Abnormal,"see note
+Positive",,
+12,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Black,Non-Hispanic ,10460,Emblemhealth Comm,39w2d,3/28/2020,Abnormal,"see report
+Positive",,
+13,JACOBI MEDICAL CENTER,JA ED ADULT , 03/17/2020 2354,3/18/2020,Emergency,Female,Pregnant,25,Black,Unknown ,10469,New York Medicaid,38w4d,3/22/2020,Abnormal,Detected,,
+14,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,Mexican/Mexican American ,11214,Affinity Health Plan McD,37w0d,3/24/2020,Abnormal,Detected,COVID-19 (confirmed),
+15,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 03/30/2020 0941,3/30/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,10462,Empire Bcbs Comm,37w0d,3/31/2020,,"see scan
+Not Detected",,
+16,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 03/27/2020 0323,3/27/2020,Emergency,Female,Pregnant,35,Other,Mexican/Mexican American ,11373,Not on file,37w0d,3/28/2020,Abnormal,"SEE REPORT
+Positive",,
+17,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 03/14/2020 1455,3/14/2020,Emergency,Female,Pregnant,29,Other,Unknown ,10472,Not on file,36w6d,3/20/2020,Abnormal,Detected,,
+18,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,29,Other,,11356,Not on file,36w1d,3/23/2020,,"See comment
+Not Detected",,
+19,ELMHURST HOSPITAL CENTER,EL ED ADULT , ,3/16/2020,Emergency,Female,Pregnant,22,Other,,11373,Not on file,,3/18/2020,,Not Detected,,
+20,JACOBI MEDICAL CENTER,JA ED ADULT , 03/28/2020 0517,3/29/2020,Medicine,Female,Pregnant,27,Other,,10458,Not on file,35w6d,3/29/2020,Abnormal,"see scan
+Positive",,
+21,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 03/23/2020 2233,3/24/2020,Obstetrics,Female,Pregnant,22,Other,Mexican/Mexican American ,11237,Metroplus McD,35w5d,3/25/2020,Abnormal,"see note
+Positive",,
+22,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,,11373,Emergency Medicaid,,3/23/2020,Abnormal,"see scan
+Presumptive Pos",,
+23,JACOBI MEDICAL CENTER,JA ED ADULT , 03/19/2020 1157,3/19/2020,Emergency,Female,Pregnant,42,Asian,Pakistani ,10469,Not on file,35w5d,3/24/2020,Abnormal,Detected,,
+24,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,26,Other,,11369,,,3/29/2020,Abnormal,"see report
+Positive",,
+25,LINCOLN MEDICAL CENTER,LI ED ADULT , 03/18/2020 1233,3/18/2020,Emergency,Female,Pregnant,29,Other,,10454,Metroplus McD,35w3d,3/24/2020,Abnormal,Detected,,
+26,JACOBI MEDICAL CENTER,JA ED ADULT , 03/25/2020 1253,3/27/2020,Medicine,Female,Pregnant,28,Other,,10467,Not on file,34w6d,3/26/2020,Abnormal,"See Scan
+Positive",,
+27,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 03/26/2020 0802,3/26/2020,Obstetrics,Female,Pregnant,31,White,Unknown ,10705,Emblemhealth Comm,,3/30/2020,,"see scan
+Not Detected",,
+28,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 03/26/2020 0804,3/26/2020,Obstetrics,Female,Pregnant,62,Black,Non-Hispanic ,10970,Not on file,,3/27/2020,,"scan scan
+Not Detected",,
+29,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,Mexican/Mexican American ,10462,Metroplus McD,34w4d,3/23/2020,,"not scanned
+Not Detected",COVID-19 (rule out),
+30,QUEENS HOSPITAL CENTER,QU ED ADULT , 03/20/2020 1643,3/20/2020,Emergency,Female,Pregnant,26,Black,Unknown ,11411,Emblemhealth Comm,34w4d,3/22/2020,Abnormal,"see scan report
+Presumptive Pos",,
+31,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,41,Unknown,Ecuadorian ,11416,Not on file,34w3d,3/26/2020,Abnormal,Detected,,
+32,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,41,Other,Bangladeshi ,10472,Not on file,34w2d,3/25/2020,Abnormal,"see report
+Positive",,
+33,LINCOLN MEDICAL CENTER,LI ED ADULT , 03/20/2020 0911,3/20/2020,Emergency,Female,Pregnant,21,Unknown,,10458,Not on file,34w2d,3/31/2020,Abnormal,"SEE REPORT
+Positive",,
+34,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,Declined ,10468,Healthfirst McD,34w1d,3/26/2020,Abnormal,"SEE REPORT
+Positive",,
+35,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 03/19/2020 1802,3/19/2020,Emergency,Female,Pregnant,31,Other,,10467,Metroplus McD,34w0d,3/21/2020,,"Negative
+Not Detected",,
+36,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics,Female,Pregnant,28,Other,,11368,New York Medicaid,33w6d,3/24/2020,Abnormal,Detected,COVID-19 (confirmed),
+37,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,28,Black,,11101,Healthfirst McD,32w6d,3/22/2020,,Not Detected,,
+38,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,,11203,Emergency Medicaid,32w5d,3/22/2020,Abnormal,"see report
+Presumptive Pos",,
+39,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 03/13/2020 1033,3/13/2020,Emergency,Female,Pregnant,29,White,Non-Hispanic ,11226,Not on file,,3/18/2020,,Not Detected,,
+40,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 03/18/2020 1528,3/18/2020,Adult ED,Female,Pregnant,39,Other,Mexican/Mexican American ,11239,Metroplus McD,32w3d,3/23/2020,Abnormal,Detected,,
+41,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 03/29/2020 0847,3/29/2020,Emergency,Female,Pregnant,27,Other,,11221,Not on file,32w2d,3/30/2020,Abnormal,"See Report
+Positive",,
+42,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Medicine,Female,Pregnant,30,Black,,10456,New York Medicaid,32w2d,3/27/2020,,Not Detected,,
+43,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 03/19/2020 1657,3/19/2020,Emergency,Female,Pregnant,20,White,,10461,Not on file,31w1d,3/23/2020,,"not scanned
+Not Detected",,
+44,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 03/19/2020 2040,3/19/2020,Obstetrics,Female,Pregnant,39,White,,10039,Unitedhealthcare Comm,30w2d,3/26/2020,Abnormal,"Positive
+See Report",,
+45,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,,10030,Emblemhealth Comm,29w4d,3/23/2020,Abnormal,Detected,,
+46,ELMHURST HOSPITAL CENTER,EL ED ADULT , 03/12/2020 0254,3/13/2020,Emergency,Female,Pregnant,19,Other,Mexican/Mexican American ,11372,Not on file,28w3d,3/16/2020,,Not Detected,,
+47,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 03/20/2020 0241,3/20/2020,Emergency,Female,Pregnant,33,Other,,11372,Not on file,28w3d,3/22/2020,,"see report
+Not Detected",,
+48,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Unknown,,11357,Empire Bcbs Comm,28w2d,3/27/2020,,"see report
+Not Detected",,
+49,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,White,,10451,Metroplus McD,27w2d,3/18/2020,,Not Detected,,
+50,METROPOLITAN HOSPITAL CENTER,ME EXPRESSCARE , ,3/8/2020,Emergency,Female,Pregnant,23,White,Non-Hispanic ,10029,Not on file,,3/11/2020,,Not Detected,,
+51,QUEENS HOSPITAL CENTER,QU ED ADULT , 03/17/2020 1215,3/17/2020,Emergency,Female,Pregnant,41,Black,Non-Hispanic ,11236,Not on file,25w6d,3/20/2020,Abnormal,Detected,COVID-19 (rule out),
+52,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 03/19/2020 0411,3/22/2020,Obstetrics,Female,Pregnant,32,Other,Non-Hispanic ,10454,Metroplus McD,,3/23/2020,,Not Detected,,
+53,WOODHULL MEDICAL CENTER,WO ED ADULT , 03/19/2020 0744,3/19/2020,Emergency,Female,Pregnant,39,"Black
+Other",Non-Hispanic ,11208,Metroplus McD,25w1d,3/26/2020,,Not Detected,,
+54,LINCOLN MEDICAL CENTER,LI ED ADULT , 03/10/2020 1836,3/11/2020,Emergency,Female,Pregnant,34,Declined,Unknown ,10468,Not on file,21w2d,3/14/2020,Abnormal,Detected,,
+55,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other,Colombian ,11370,New York Medicaid,17w6d,3/25/2020,Abnormal,"See Comment
+Positive",,
+56,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Other,Ecuadorian ,11372,Fidelis Care McD,17w4d,3/23/2020,Abnormal,"see scan
+Presumptive Pos",COVID-19 (confirmed),
+57,HARLEM HOSPITAL CENTER,HA ED ADULT , 03/17/2020 2347,3/18/2020,Emergency,Female,Pregnant,30,Unknown,,10037,Not on file,17w1d,3/23/2020,,Not Detected,,
+58,BELLEVUE HOSPITAL CENTER,BE ED PEDIATRIC , 03/19/2020 1340,3/19/2020,Emergency,Female,Pregnant,18,Other,Non-Hispanic ,11206,Healthfirst Comm,16w4d,3/26/2020,Abnormal,Detected,,
+59,QUEENS HOSPITAL CENTER,QU ED ADULT , ,3/21/2020,Emergency,Female,Pregnant,30,Other,Other Hispanic ,11435,Not on file,,3/28/2020,,"see report
+Not Detected",,
+60,QUEENS HOSPITAL CENTER,QU ED ADULT , 03/19/2020 1900,3/20/2020,Emergency,Female,Pregnant,34,Asian,,10461,Metroplus Comm,,3/21/2020,,"See scan report
+Not Detected",,
+61,QUEENS HOSPITAL CENTER,QU ED ADULT , ,3/20/2020,Emergency,Female,Pregnant,43,Other,,11417,Not on file,,3/23/2020,Abnormal,"report
+Presumptive Pos",,
+62,BELLEVUE HOSPITAL CENTER,BE ED PEDIATRIC , 03/24/2020 1025,3/26/2020,Pediatrics,Female,Pregnant,21,Black,Non-Hispanic ,10451,Metroplus Comm,15w0d,3/25/2020,,"see report
+Not Detected",,
+63,JACOBI MEDICAL CENTER,JA ED ADULT , 03/16/2020 0921,3/16/2020,Emergency,Female,Pregnant,35,Other,,10475,Not on file,14w2d,3/18/2020,,Not Detected,,
+64,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,White,Unknown ,7302,Empire Bcbs Comm,13w6d,3/18/2020,,Not Detected,,
+65,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,"Other
+Unknown",,11372,Empire Bcbs Comm,13w4d,3/29/2020,Abnormal,"see note
+Positive",COVID-19 (confirmed),
+66,WOODHULL MEDICAL CENTER,WO ED ADULT , 03/20/2020 1200,3/20/2020,Emergency,Female,Pregnant,27,Black,Non-Hispanic ,11211,Not on file,13w3d,3/24/2020,Abnormal,"SEE NOTE
+Presumptive Pos",,
+67,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 03/15/2020 1432,3/15/2020,Emergency,Female,Pregnant,18,Other,Other Hispanic ,10473,Not on file,11w2d,3/19/2020,Abnormal,Detected,,
+68,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 04/08/2020 0851,4/8/2020,Emergency,Female,Pregnant,33,Black,Non-Hispanic ,11432,Not on file,,4/10/2020,,"see report
+Not Detected",,
+69,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,White,Puerto Rican ,10473,Healthfirst McD,24w3d,4/11/2020,,"see report
+Not Detected",,
+70,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 04/03/2020 0512,4/6/2020,Pediatrics,Female,Pregnant,15,Other,Ecuadorian ,11368,Not on file,,4/4/2020,Abnormal,"see report
+Positive",,
+71,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 04/13/2020 1409,4/14/2020,Medicine,Female,Pregnant,32,Black,Non-Hispanic ,11233,Metroplus Comm,,4/15/2020,,"see report
+Not Detected",,
+72,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/16/2020 0534,4/16/2020,Surgery,Female,Pregnant,40,Other,Ecuadorian ,11370,Unitedhealthcare Comm,,4/16/2020,,Negative,,
+73,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/16/2020 0718,4/16/2020,Surgery,Female,Pregnant,25,Other,,11372,Not on file,,4/16/2020,,Negative,,
+74,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/23/2020 1003,4/23/2020,Surgery,Female,Pregnant,32,Black,Non-Hispanic ,10029,Not on file,,4/23/2020,,Negative,,
+75,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/16/2020 0758,4/16/2020,Surgery,Female,Pregnant,28,Black,Non-Hispanic ,10029,Not on file,,4/16/2020,,Negative,,
+76,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 04/16/2020 0957,4/16/2020,Obstetrics,Female,Pregnant,22,Black,Non-Hispanic ,10029,Metroplus McD,31w2d,4/17/2020,,"See Report
+Not Detected",,
+77,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,"White
+Other",Puerto Rican ,10456,Metroplus McD,15w6d,4/21/2020,,"See Report
+Not Detected",,
+78,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/23/2020 0640,4/23/2020,Surgery,Female,Pregnant,26,Unknown,,10306,Not on file,,4/23/2020,,Negative,,
+79,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/23/2020 0932,4/23/2020,Surgery,Female,Pregnant,29,Black,Non-Hispanic ,10456,Empire Bcbs Comm,,4/23/2020,,Negative,,
+80,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/23/2020 0552,4/24/2020,Surgery,Female,Pregnant,20,Other,,11421,Uhc Oxford Comm,,4/23/2020,,Negative,,
+81,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,,10029,Affinity Health Plan McD,,4/29/2020,,Negative,,
+82,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 04/23/2020 0912,4/23/2020,Surgery,Female,Pregnant,44,Asian,,11365,Not on file,,4/23/2020,,Negative,,
+83,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Black,,13120,Magnacare,,4/29/2020,Abnormal,Positive,,
+84,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Ecuadorian ,11206,Fidelis Care McD,35w3d,4/29/2020,,Negative,,
+85,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV OUTPATIENT LAB , ,,Laboratory,Female,Pregnant,35,Other,,10454,Healthfirst McD,26w5d,4/6/2020,Abnormal,Detected,,
+86,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,White,Non-Hispanic ,11235,Fidelis Care McD,,4/29/2020,,"see epic media
+Not Detected",,
+87,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Other,Unknown ,11563,Empire Bcbs Comm,,4/29/2020,,"see epic media
+Not Detected",,
+88,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 04/09/2020 1044,4/13/2020,Medical Intensive Care,Female,Pregnant,25,Black,,11235,Not on file,36w3d,4/11/2020,Abnormal,"see epic/media
+Positive",COVID-19 (confirmed),
+89,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,41,Other,Pakistani ,11223,Not on file,30w2d,4/25/2020,Abnormal,"see epic/media
+Presumptive Pos",,
+90,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,23,White,,11229,Not on file,32w0d,4/10/2020,Abnormal,"see epic media
+Positive",,
+91,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,White,Unknown ,11235,Empire Bcbs Comm,15w6d,4/10/2020,,"see epic media
+Not Detected",,
+92,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,White,Puerto Rican ,11207,Empire Bcbs Comm,,4/28/2020,Abnormal,"see epic media
+Positive",,
+93,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Black,Non-Hispanic ,11204,Emblemhealth Comm,120w4d,4/17/2020,,"se epic media
+Not Detected",,
+94,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,Non-Hispanic ,11203,Empire Bcbs Healthplus McD,158w2d,4/17/2020,Abnormal,"see epic media
+Positive",,
+95,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 04/17/2020 1858,4/17/2020,Adult ED,Female,Pregnant,23,White,,11218,Fidelis Care Comm,44w5d,4/19/2020,Abnormal,"see epic/media
+Positive",,
+96,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 04/21/2020 1320,4/21/2020,Emergency,Female,Pregnant,27,White,,10305,Not on file,23w0d,4/25/2020,,"see epic/media
+Not Detected",,
+97,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 04/08/2020 1144,4/8/2020,OB ED,Female,Pregnant,40,Other,Puerto Rican ,10304,Empire Bcbs Comm,34w2d,4/9/2020,,"see epic media
+Not Detected",,
+98,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,33,Other,,11218,Not on file,36w0d,4/27/2020,,"see epic/media
+Not Detected",,
+99,CONEY ISLAND HOSPITAL CENTER,CI IP OB8T MOTHER/BABY , 04/24/2020 0029,4/28/2020,Obstetrics,Female,Pregnant,30,Other,Non-Hispanic ,11230,Not on file,38w3d,4/24/2020,Abnormal,Positive,,
+100,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 04/20/2020 0004,4/20/2020,OB ED,Female,Pregnant,24,"White
+Other",Filipino ,11373,Not on file,39w1d,4/20/2020,,Negative,,
+101,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Asian,Unknown ,11374,Emblemhealth Comm,90w3d,4/10/2020,,Negative,,
+102,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,21,American Indian or Alaskan,Non-Hispanic ,11230,Not on file,39w5d,4/29/2020,Abnormal,"see epic media
+Positive",,
+103,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,34,Other,Mexican/Mexican American ,11368,Not on file,34w0d,4/17/2020,,"See report
+Not Detected",,
+104,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 03/26/2020 1255,3/26/2020,Obstetrics,Female,Pregnant,32,Other,Other Hispanic ,11417,Healthfirst McD,41w6d,4/2/2020,Abnormal,"See note
+Presumptive Pos",,
+105,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 03/31/2020 1340,4/6/2020,Obstetrics,Female,Pregnant,38,Other,,11369,Not on file,42w5d,4/1/2020,Abnormal,"See Report
+Positive",,
+106,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 04/02/2020 1622,4/2/2020,Obstetrics,Female,Pregnant,31,Unknown,,11432,Not on file,43w4d,4/3/2020,Abnormal,"See note
+Positive",,
+107,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,Non-Hispanic ,11373,,26w4d,4/9/2020,Abnormal,"see report
+Positive",COVID-19 (confirmed),
+108,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,45,Asian,Non-Hispanic ,11420,Emblemhealth Comm,,4/15/2020,,"see report
+Not Detected",,
+109,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Other,,11208,Metroplus Comm,17w0d,4/9/2020,,"see report
+Not Detected",,
+110,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,"Other
+Asian",Unknown ,11373,Unitedhealthcare Comm,,4/24/2020,,"see report
+Not Detected",,
+111,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics,Female,Pregnant,34,Other,Mexican/Mexican American ,11373,Not on file,28w4d,4/28/2020,Abnormal,"see report
+Positive",,
+112,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 04/16/2020 1027,4/18/2020,Obstetrics,Female,Pregnant,32,Other,Ecuadorian ,11434,Not on file,19w5d,4/16/2020,,Negative,,
+113,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,30,Other,,11368,,,4/17/2020,,"See note
+Not Detected",,
+114,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 04/21/2020 1641,4/21/2020,Obstetrics,Female,Pregnant,24,Other,Ecuadorian ,11373,Not on file,33w6d,4/21/2020,Abnormal,Positive,,
+115,ELMHURST HOSPITAL CENTER,EL ED ADULT , 04/18/2020 1448,4/18/2020,Emergency,Female,Pregnant,23,Asian,,11373,Not on file,31w6d,4/19/2020,,"See note
+Not Detected",,
+116,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,White,Non-Hispanic ,11375,Emblemhealth Comm,,4/23/2020,,"see report
+Not Detected",,
+117,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,,11356,Healthfirst McD,24w5d,4/23/2020,,"see report
+Not Detected",,
+118,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,36,Other,Unknown ,11001,Aetna Comm,146w1d,4/29/2020,,"see report
+Not Detected",,
+119,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,Dominican ,11572,Emblemhealth Comm,150w0d,4/22/2020,,"see report
+Not Detected",,
+120,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 04/21/2020 2254,4/22/2020,Obstetrics,Female,Pregnant,25,White,Non-Hispanic ,11418,Not on file,,4/23/2020,Abnormal,"see report
+Positive",,
+121,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 04/25/2020 1837,4/26/2020,Obstetrics,Female,Pregnant,30,Other,Ecuadorian ,11370,Not on file,34w2d,4/28/2020,,"see report
+Not Detected",,
+122,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,Asian,Unknown ,11581,Emblemhealth Comm,,4/29/2020,,"see report
+Not Detected",,
+123,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,30,"Other
+Other",,11372,Emergency Medicaid,,4/27/2020,Abnormal,"see report
+Positive",,
+124,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,White,Non-Hispanic ,11105,Cigna,,4/13/2020,,"see report
+Not Detected",,
+125,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Asian,,11590,1199 National Benefit Fund,,4/12/2020,,"See note
+Not Detected",,
+126,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,38,Declined,Puerto Rican ,11372,Emblemhealth Comm,39w6d,4/6/2020,Abnormal,"see report
+Positive",,
+127,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,Other Hispanic ,11373,Healthfirst Comm,10w0d,4/5/2020,Abnormal,"See report
+Positive",,
+128,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,11377,Fidelis Care Comm,,4/10/2020,,"see report
+Not Detected",,
+129,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,43,Unknown,Non-Hispanic ,11559,Empire Bcbs Comm,,4/17/2020,,"see report
+Not Detected",,
+130,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Asian,Unknown ,11372,Emblemhealth Comm,,4/22/2020,,"see report
+Not Detected",,
+131,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,38,Other,Ecuadorian ,11379,,,4/13/2020,,"see report
+Not Detected",,
+132,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Asian,Non-Hispanic ,11373,Healthfirst Comm,,4/27/2020,,"ee report
+Not Detected",,
+133,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 03/28/2020 1315,3/28/2020,Obstetrics,Female,Pregnant,31,White,,11368,Not on file,46w4d,4/1/2020,Abnormal,"see report
+Positive","COVID-19 (confirmed), COVID-19 (rule out)",
+134,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,Ecuadorian ,11368,Not on file,36w3d,4/29/2020,,"see report
+Not Detected",,
+135,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Other,Ecuadorian ,11368,Healthfirst McD,29w5d,4/25/2020,Abnormal,"See note
+Presumptive Pos",COVID-19 (confirmed),
+136,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Other,Peruvian ,11368,,111w2d,4/27/2020,,"see report
+Not Detected",,
+137,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,44,Other,Argentinian ,11373,Emergency Medicaid,,4/29/2020,,"see report
+Not Detected",,
+138,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,Non-Hispanic ,11203,Aetna Comm,10w2d,4/21/2020,,"SEE REPORT
+Not Detected",,
+139,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,,Female,Pregnant,39,Asian,Vietnamese ,11207,Unitedhealthcare Comm,34w3d,4/14/2020,Abnormal,"SEE REPORT
+Positive",,
+140,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,Non-Hispanic ,10002,Healthfirst Comm,27w1d,4/23/2020,,"SEE REPORT
+Not Detected",,
+141,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Black,Non-Hispanic ,11236,Metroplus Comm,7w6d,4/15/2020,,"SEE REPORT
+Not Detected",,
+142,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,Non-Hispanic ,10002,Healthfirst McD,24w1d,4/27/2020,Abnormal,"SEE REPORT
+Positive",,
+143,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,"Other
+Other",,10002,Metroplus McD,40w6d,4/24/2020,Abnormal,"SEE REPORT
+Positive",,
+144,HARLEM HOSPITAL CENTER,HA EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,38,Black,Unknown ,10456,Metroplus Comm,39w4d,4/13/2020,Abnormal,"See report
+Positive",,
+145,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 04/14/2020 1109,4/14/2020,Obstetrics,Female,Pregnant,22,Other,,10455,Not on file,37w3d,4/15/2020,,"see report
+Not Detected",,
+146,HARLEM HOSPITAL CENTER,HA EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,37,Other,Unknown ,10465,Not on file,,4/19/2020,,"See report
+Not Detected",,
+147,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 04/23/2020 0045,4/23/2020,Obstetrics,Female,Pregnant,26,Black,Non-Hispanic ,10039,Not on file,35w4d,4/27/2020,,"see report
+Not Detected",,
+148,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 04/27/2020 0817,4/29/2020,Obstetrics,Female,Pregnant,20,Black,Non-Hispanic ,10460,Metroplus McD,40w2d,4/27/2020,,Negative,,
+149,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 04/27/2020 0951,4/27/2020,Obstetrics,Female,Pregnant,37,"Declined
+Other",Unknown ,10035,Not on file,45w4d,4/28/2020,,"see report
+Not Detected",,
+150,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 04/11/2020 1901,4/12/2020,Obstetrics,Female,Pregnant,30,Other,,10469,Metroplus McD,,4/16/2020,,"see report
+Not Detected",,
+151,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 04/01/2020 1253,4/2/2020,Medicine,Female,Pregnant,40,Other,Unknown ,10027,Not on file,28w4d,4/2/2020,Abnormal,"see report
+Positive",COVID-19 (confirmed),
+152,HARLEM HOSPITAL CENTER,HA EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,29,Black,Non-Hispanic ,10455,Not on file,9w2d,4/18/2020,,"see report
+Not Detected",,
+153,HARLEM HOSPITAL CENTER,HA EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,23,Black,,11213,Not on file,23w1d,4/17/2020,Abnormal,"see report
+Positive",,
+154,HARLEM HOSPITAL CENTER,HA EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,38,Black,Non-Hispanic ,10030,Not on file,36w5d,4/7/2020,Abnormal,"See report
+Positive",,
+155,HARLEM HOSPITAL CENTER,HA EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,38,Black,Non-Hispanic ,10030,Not on file,17w1d,4/14/2020,,"see report
+Not Detected",,
+156,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Unknown,,10472,Metroplus McD,32w4d,4/7/2020,Abnormal,"See  View Image
+Positive",,
+157,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/02/2020 1221,4/2/2020,Obstetrics,Female,Pregnant,42,Other,Puerto Rican ,10461,Not on file,,4/6/2020,,"See View Image
+Not Detected",,
+158,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/03/2020 0205,4/3/2020,Obstetrics,Female,Pregnant,30,Other,,10473,,,4/6/2020,,"See View Image
+Not Detected",,
+159,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/03/2020 0104,4/3/2020,Obstetrics,Female,Pregnant,30,Other,Puerto Rican ,10467,Fidelis Care McD,,4/5/2020,Abnormal,"see scan report
+Positive",,
+160,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,44,"White
+Unknown",Non-Hispanic ,11414,Empire Bcbs Comm,,4/8/2020,,"See View Image
+Not Detected",,
+161,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Unknown,Unknown ,10472,Fidelis Care Comm,39w5d,4/11/2020,Abnormal,"see scan
+Positive",COVID-19 (confirmed),
+162,JACOBI MEDICAL CENTER,JA ED ADULT , 04/10/2020 0802,4/18/2020,Pediatrics,Female,Pregnant,31,Other,Ecuadorian ,10472,Not on file,6w4d,4/11/2020,Abnormal,"see scan
+Positive",,
+163,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 04/13/2020 1819,4/16/2020,Obstetrics,Female,Pregnant,17,Other,,10029,Not on file,28w5d,4/13/2020,,Negative,,
+164,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/14/2020 1303,4/14/2020,Obstetrics,Female,Pregnant,27,"Other
+Declined",Non-Hispanic ,10460,Affinity Health Plan Comm,35w5d,4/14/2020,,Negative,,
+165,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Black,,10455,,,4/16/2020,,"See View Image
+Not Detected",,
+166,JACOBI MEDICAL CENTER,JA IP 7W MOTHER BABY , 04/16/2020 1247,4/20/2020,Obstetrics,Female,Pregnant,30,White,Other Hispanic ,10467,Empire Bcbs Comm,27w2d,4/17/2020,,Negative,,
+167,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/17/2020 1933,4/17/2020,Obstetrics,Female,Pregnant,34,Other,Unknown ,10458,Not on file,,4/18/2020,Abnormal,Positive,,
+168,JACOBI MEDICAL CENTER,JA ED ADULT , 04/18/2020 1309,4/18/2020,Emergency,Female,Pregnant,28,Other,,10462,Not on file,,4/21/2020,Abnormal,"See View Image
+Positive",,
+169,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/22/2020 0419,4/22/2020,Obstetrics,Female,Pregnant,28,Black,,10469,Not on file,49w4d,4/22/2020,,Negative,,
+170,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,24,Unknown,,10462,Metroplus McD,34w4d,4/25/2020,Abnormal,"see scan
+Positive",,
+171,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/27/2020 2127,4/28/2020,Obstetrics,Female,Pregnant,64,Asian,,10801,Not on file,,4/28/2020,Abnormal,Positive,,
+172,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,Non-Hispanic ,10460,,,4/11/2020,,"see scan
+Not Detected",,
+173,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/09/2020 0925,4/9/2020,Obstetrics,Female,Pregnant,47,Other,Other Hispanic ,10455,Emblemhealth Comm,,4/10/2020,,"See View Image
+Not Detected",,
+174,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,Unknown ,10453,Metroplus McD,35w5d,4/23/2020,,Negative,,
+175,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,"Asian
+American Indian or Alaskan",Non-Hispanic ,10956,Aetna Comm,,4/5/2020,,"see scan report
+Not Detected",,
+176,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 04/01/2020 1110,4/1/2020,Obstetrics,Female,Pregnant,43,Black,,10993,Not on file,,4/2/2020,,"see scan
+Not Detected",,
+177,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,59,Black,Non-Hispanic ,10475,Aetna Comm,,4/4/2020,Abnormal,"see scan report
+Presumptive Pos",,
+178,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,Puerto Rican ,10460,Metroplus McD,34w1d,4/9/2020,,"See View Image
+Not Detected",,
+179,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,37,Black,,10466,Emergency Medicaid,,4/30/2020,,"See Report
+Not Detected",,
+180,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,10460,Metroplus McD,33w6d,4/11/2020,Abnormal,"see scan
+Invalid",,
+181,KINGS COUNTY HOSPITAL CENTER,KC IPP R6E PSYCH ADOL , 03/25/2020 1930,4/3/2020,Adult Psych,Female,Pregnant,23,Asian,Non-Hispanic ,10002,Healthfirst McD,,4/1/2020,,"see report
+Not Detected",,
+182,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,11226,Emblemhealth Comm,27w5d,4/10/2020,,"SEE REPORT
+Not Detected",,
+183,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,White,,11238,Unitedhealthcare Comm,,4/17/2020,,"SEE REPORT
+Not Detected",,
+184,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Unknown,,11217,Healthfirst McD,,4/17/2020,,"SEE REPORT
+Not Detected",,
+185,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 04/20/2020 0139,4/20/2020,Obstetrics,Female,Pregnant,36,Black,Non-Hispanic ,11236,Not on file,36w2d,4/20/2020,,Negative,,
+186,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,Non-Hispanic ,11207,Metroplus Comm,9w2d,4/24/2020,,"see report
+Not Detected",,
+187,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 04/22/2020 0444,4/24/2020,Obstetrics,Female,Pregnant,37,Black,Non-Hispanic ,11226,Not on file,39w0d,4/22/2020,,Negative,,
+188,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 04/23/2020 0241,4/24/2020,Obstetrics,Female,Pregnant,31,Other,,11203,Not on file,41w3d,4/23/2020,,Negative,,
+189,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 04/24/2020 0631,4/27/2020,Obstetrics,Female,Pregnant,40,Black,Unknown ,11210,Not on file,39w0d,4/24/2020,Abnormal,Positive,,
+190,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 04/24/2020 1655,4/26/2020,Obstetrics,Female,Pregnant,31,Other,,11216,Not on file,50w6d,4/25/2020,,Negative,,
+191,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 04/25/2020 0310,4/25/2020,Obstetrics,Female,Pregnant,27,Other,Non-Hispanic ,11233,Not on file,,4/27/2020,,"see report
+Not Detected",,
+192,KINGS COUNTY HOSPITAL CENTER,KC INTRA-OP , 04/29/2020 1531,4/30/2020,Obstetrics,Female,Pregnant,32,Black,Non-Hispanic ,11210,Not on file,,4/30/2020,,Negative,,
+193,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 04/30/2020 1334,5/1/2020,Gynecology,Female,Pregnant,35,Black,,11226,Not on file,,4/30/2020,,Negative,,
+194,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,40,Asian,Non-Hispanic ,11203,Empire Bcbs Comm,40w3d,4/16/2020,,"see report
+Not Detected",,
+195,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Black,Non-Hispanic ,11233,,,4/17/2020,,"SEE REPORT
+Not Detected",,
+196,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 03/21/2020 1922,3/22/2020,Obstetrics,Female,Pregnant,31,Other,,10454,Not on file,43w6d,4/8/2020,Abnormal,"SEE RESULTS
+Positive",,
+197,LINCOLN MEDICAL CENTER,LI ED ADULT , 03/27/2020 2100,3/28/2020,Medicine,Female,Pregnant,38,Black,,10454,Emblemhealth Comm,,4/1/2020,Abnormal,"SEE REPORT
+Positive",COVID-19 (confirmed),
+198,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 03/30/2020 0240,3/30/2020,Obstetrics,Female,Pregnant,42,Other,,10452,Not on file,44w5d,4/2/2020,Abnormal,"SEE REPORT
+Positive",,
+199,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 03/30/2020 1858,3/31/2020,Obstetrics,Female,Pregnant,20,Black,,10467,Not on file,,4/1/2020,Abnormal,"see result
+Positive",,
+200,LINCOLN MEDICAL CENTER,LI ED ADULT , 04/02/2020 0133,4/8/2020,Medicine,Female,Pregnant,39,Declined,,10454,Not on file,26w5d,4/3/2020,Abnormal,"SEE REPORT
+Positive",COVID-19 (confirmed),
+201,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Gynecology,Female,Pregnant,25,Black,Non-Hispanic ,10455,Not on file,33w0d,4/6/2020,Abnormal,"SEE REPORT
+Positive",,
+202,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Obstetrics High Risk,Female,Pregnant,41,Other,,10472,Metroplus McD,52w5d,4/17/2020,Abnormal,"SEE REPORT
+Positive",COVID-19 (confirmed),
+203,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,35,Black,Non-Hispanic ,10029,Unitedhealthcare McR,37w2d,4/7/2020,,"see results
+Not Detected",,
+204,LINCOLN MEDICAL CENTER,LI ED ADULT , 04/13/2020 2218,4/15/2020,Medicine,Female,Pregnant,27,Other,Dominican ,10468,Emergency Medicaid,12w5d,4/17/2020,,"SEE REPORT
+Not Detected",,
+205,LINCOLN MEDICAL CENTER,LI ED ADULT , 04/14/2020 1621,4/14/2020,Emergency,Female,Pregnant,39,Other,,10473,Not on file,29w5d,4/17/2020,Abnormal,"SEE REPORT
+Positive",,
+206,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,10451,Metroplus McD,34w3d,4/16/2020,Abnormal,"SEE REPORT
+Positive",,
+207,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,,10009,Metroplus McD,29w6d,4/21/2020,Abnormal,"SEE REPORT
+Presumptive Pos",,
+208,LINCOLN MEDICAL CENTER,LI ED ADULT , 04/26/2020 1035,4/26/2020,Emergency,Female,Pregnant,26,Other,,10454,Not on file,24w3d,4/26/2020,,Negative,,
+209,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 04/28/2020 0530,4/28/2020,Obstetrics,Female,Pregnant,20,Other,Non-Hispanic ,10455,Not on file,34w0d,4/28/2020,,Negative,,
+210,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Other,,10472,Emergency Medicaid,26w3d,4/3/2020,Abnormal,"SEE REPORT
+Positive",,
+211,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Asian,Non-Hispanic ,10036,Empire Bcbs Comm,51w6d,4/6/2020,Abnormal,"SEE REPORT
+Positive",,
+212,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,"Asian
+Other",Non-Hispanic ,11801,Emblemhealth Comm,29w4d,4/3/2020,Abnormal,"SEE REPORT
+Positive",COVID-19 (confirmed),
+213,LINCOLN MEDICAL CENTER,LI ED PEDIATRIC , 04/25/2020 1254,4/25/2020,Emergency,Female,Pregnant,19,Other,,10459,Not on file,49w5d,4/25/2020,,Negative,,
+214,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Unknown,,10472,Metroplus McD,29w1d,4/2/2020,Abnormal,"SEE REPORT
+Positive",,
+215,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,Non-Hispanic ,10459,Unitedhealthcare Comm,36w1d,4/14/2020,Abnormal,"SEE REPORT
+Presumptive Pos",,
+216,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,Unknown ,10451,Metroplus McD,,4/27/2020,,"SEE REPORT
+Not Detected",,
+217,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Declined,,10455,Metroplus McD,,4/14/2020,,"see results
+Not Detected",,
+218,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 04/03/2020 1418,4/3/2020,Obstetrics,Female,Pregnant,37,Unknown,,10465,Not on file,36w4d,4/6/2020,Abnormal,"SEE REPORT
+Positive",,
+219,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Unknown,,10457,Metroplus McD,35w5d,4/17/2020,,"SEE REPORT
+Not Detected",,
+220,LINCOLN MEDICAL CENTER,LI OB US IMAGING , ,,Referred Ultrasound,Female,Pregnant,32,Other,,10452,Not on file,50w5d,4/14/2020,Abnormal,"SEE REPORT
+Positive",,
+221,METROPOLITAN HOSPITAL CENTER,ME EMP OCC HLTH SVCS , ,,,Female,Pregnant,35,Other,,10454,Healthfirst McD,27w2d,4/23/2020,,"see report
+Not Detected",,
+222,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Black,Non-Hispanic ,10026,Metroplus Comm,21w5d,4/1/2020,Abnormal,"see report
+Positive",,
+223,METROPOLITAN HOSPITAL CENTER,ME EMP OCC HLTH SVCS , ,,Anatomic Pathology,Female,Pregnant,34,White,Non-Hispanic ,10001,Not on file,,4/20/2020,,"see report
+Not Detected",,
+224,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 04/19/2020 0151,4/21/2020,Obstetrics,Female,Pregnant,23,Other,,10029,Not on file,,4/19/2020,Abnormal,Positive,,
+225,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 04/19/2020 1255,4/19/2020,Emergency,Female,Pregnant,25,Black,,10029,Not on file,,4/21/2020,,"see report
+Not Detected",,
+226,METROPOLITAN HOSPITAL CENTER,ME EMP OCC HLTH SVCS , ,,EOHS,Female,Pregnant,36,Other,,10452,Emblemhealth McD,,4/22/2020,,"see report
+Not Detected",,
+227,METROPOLITAN HOSPITAL CENTER,ME EMP OCC HLTH SVCS , ,,Anatomic Pathology,Female,Pregnant,41,Declined,Non-Hispanic ,10473,Emblemhealth Comm,,4/24/2020,Abnormal,"see report
+Positive",,
+228,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Other,,10550,Metroplus Comm,15w1d,4/28/2020,,"SEE REPORT
+Not Detected",,
+229,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Black,Non-Hispanic ,10466,Affinity Health Plan McD,,4/29/2020,Abnormal,"SEE REPORT
+Positive",,
+230,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,Puerto Rican ,10462,Emblemhealth Comm,,4/15/2020,Abnormal,"SEE REPORT
+Positive",,
+231,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 04/03/2020 1014,4/9/2020,Obstetrics,Female,Pregnant,36,Other,Mexican/Mexican American ,10458,Not on file,39w1d,4/6/2020,Abnormal,"See View Image
+Positive",,
+232,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,38,Asian,Bangladeshi ,10458,Healthfirst McD,38w4d,4/27/2020,Abnormal,Positive,,
+233,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Medicine,Female,Pregnant,31,Black,Unknown ,10704,Unitedhealthcare Comm,,4/5/2020,Abnormal,"Positive
+See Report",,
+234,NORTH CENTRAL BRONX HOSPITAL,NO ED PEDIATRIC , 04/20/2020 1021,4/20/2020,Emergency,Female,Pregnant,17,White,Non-Hispanic ,10509,Not on file,26w1d,4/21/2020,Abnormal,"See report
+Positive",,
+235,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics,Female,Pregnant,18,White,Non-Hispanic ,10457,Not on file,33w6d,4/20/2020,,Negative,,
+236,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 04/20/2020 2142,4/21/2020,Obstetrics,Female,Pregnant,27,Other,Other Hispanic ,10466,Not on file,23w5d,4/21/2020,,Negative,,
+237,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 04/27/2020 0008,4/27/2020,Emergency,Female,Pregnant,44,Asian,Non-Hispanic ,10458,Not on file,35w4d,4/27/2020,Abnormal,Positive,,
+238,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Medicine,Female,Pregnant,47,White,Non-Hispanic ,10461,Unitedhealthcare Comm,,4/30/2020,,"See Report
+Not Detected",,
+239,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Medicine,Female,Pregnant,49,Black,,10467,Unitedhealthcare Comm,,4/30/2020,,"See Report
+Not Detected",,
+240,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,40,Black,Unknown ,10460,Metroplus McD,33w4d,4/23/2020,,Negative,,
+241,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 04/14/2020 1010,4/14/2020,Obstetrics,Female,Pregnant,42,Black,Non-Hispanic ,10469,Healthfirst McD,34w6d,4/15/2020,Abnormal,"See Report
+Positive",,
+242,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,Bangladeshi ,11433,Emblemhealth Comm,149w4d,4/28/2020,,"See scan
+Not Detected",,
+243,QUEENS HOSPITAL CENTER,QU ED ADULT , 04/08/2020 2220,4/11/2020,Emergency,Female,Pregnant,33,Other,Other Hispanic ,11208,Not on file,8w6d,4/11/2020,Abnormal,"report
+Positive",COVID-19 (confirmed),
+244,QUEENS HOSPITAL CENTER,QU ED ADULT , 04/09/2020 2136,4/11/2020,Medicine,Female,Pregnant,30,Asian,Bangladeshi ,11435,Not on file,29w2d,4/13/2020,,"scan
+Not Detected",,
+245,QUEENS HOSPITAL CENTER,QU ED ADULT , 04/11/2020 0632,4/12/2020,Emergency,Female,Pregnant,36,Black,,11433,Not on file,51w4d,4/16/2020,Abnormal,"scan
+Positive",COVID-19 (confirmed),
+246,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,Non-Hispanic ,11373,Fidelis Care McD,,4/25/2020,,"see report
+Not Detected",,
+247,QUEENS HOSPITAL CENTER,QU IP B2E MOTHER/BABY , 04/16/2020 1524,4/21/2020,Obstetrics,Female,Pregnant,30,Black,,10455,Fidelis Care McR,31w0d,4/17/2020,,"see report
+Not Detected",,
+248,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 04/30/2020 1502,4/30/2020,Obstetrics,Female,Pregnant,19,Other,Non-Hispanic ,11419,Not on file,37w2d,4/30/2020,,Negative,,
+249,QUEENS HOSPITAL CENTER,QU ED ADULT , 04/23/2020 2256,4/24/2020,Emergency,Female,Pregnant,18,Black,Non-Hispanic ,11416,Empire Bcbs Comm,,4/26/2020,,"see scan
+Not Detected",,
+250,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 04/28/2020 1100,4/28/2020,Obstetrics,Female,Pregnant,36,Black,Non-Hispanic ,11432,Magnacare,35w1d,4/29/2020,Abnormal,"See scan
+Presumptive Pos",COVID-19 (confirmed),
+251,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Family Planning,Female,Pregnant,22,Other,Non-Hispanic ,11365,Empire Bcbs Comm,,4/23/2020,,"See scan
+Not Detected",,
+252,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,Non-Hispanic ,11205,Metroplus McD,27w2d,4/21/2020,,"see report
+Not Detected",,
+253,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Unknown,Dominican ,11420,Metroplus McD,39w1d,4/23/2020,,"See scan
+Not Detected",,
+254,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 04/14/2020 1512,4/14/2020,Obstetrics,Female,Pregnant,27,Black,Non-Hispanic ,11550,Healthfirst McD,35w5d,4/17/2020,,"scan
+Not Detected",,
+255,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 04/21/2020 1323,4/21/2020,Obstetrics,Female,Pregnant,22,Other,Puerto Rican ,11432,Healthfirst McD,33w6d,4/24/2020,Abnormal,"scan
+Positive",,
+256,WOODHULL MEDICAL CENTER,WO WOMENS HEALTH SRVCS , ,,Obstetrics High Risk,Female,Pregnant,34,Other,,11208,Not on file,29w4d,4/18/2020,,"SEE REPORT
+Not Detected",,
+257,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 04/06/2020 1926,4/7/2020,Obstetrics,Female,Pregnant,33,Black,,11205,Not on file,37w4d,4/10/2020,,"See Report
+Not Detected",COVID-19 (rule out),
+258,WOODHULL MEDICAL CENTER,WO EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,47,Black,Non-Hispanic ,11233,Empire Bcbs Comm,,4/15/2020,Abnormal,Positive,,
+259,WOODHULL MEDICAL CENTER,WO INTRA-OP , 04/16/2020 0041,4/18/2020,Medicine,Female,Pregnant,30,Asian,,11206,Not on file,,4/16/2020,,Negative,"COVID-19 (confirmed), COVID-19 (rule out)",
+260,WOODHULL MEDICAL CENTER,WO ED ADULT , 04/17/2020 2329,4/19/2020,Medicine,Female,Pregnant,27,Unknown,,11208,Not on file,,4/22/2020,Abnormal,"SEE REPORT
+Inconclusive",COVID-19 (rule out),
+261,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 04/28/2020 1531,4/28/2020,Obstetrics,Female,Pregnant,22,Other,,11206,Not on file,40w6d,4/28/2020,,Negative,,
+262,WOODHULL MEDICAL CENTER,WO EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,45,Black,,11212,Not on file,,4/17/2020,,"See Report
+Not Detected",,
+263,WOODHULL MEDICAL CENTER,WO OB ULTRASOUND , 04/10/2020 1048,,Radiology Referred,Female,Pregnant,30,Other,,11206,Not on file,29w1d,4/10/2020,Abnormal,Positive,,
+264,WOODHULL MEDICAL CENTER,WO WOMENS HEALTH SRVCS , ,,Obstetrics High Risk,Female,Pregnant,19,Other,Non-Hispanic ,11206,Metroplus McD,27w0d,4/23/2020,,"See Report
+Not Detected",,
+265,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,"Other
+Other",,10453,Fidelis Care McD,36w0d,5/7/2020,,Negative,,
+266,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 05/01/2020 1722,5/2/2020,Gynecology,Female,Pregnant,42,Other,,11226,Not on file,,5/1/2020,,Negative,,
+267,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Other,,11550,Fidelis Care Comm,,5/6/2020,,Negative,,
+268,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,"Other Pacific Islander
+Other",,10451,Metroplus McD,,5/6/2020,,Negative,,
+269,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,Mexican/Mexican American ,11368,,,5/6/2020,Abnormal,Positive,,
+270,BELLEVUE HOSPITAL CENTER,BE AMB INTRA-OP , 05/01/2020 0758,5/1/2020,Surgery,Female,Pregnant,31,Other,Non-Hispanic ,10026,Healthfirst McD,,5/12/2020,,"See Report
+Not Detected",,
+271,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 05/02/2020 0829,5/5/2020,Obstetrics,Female,Pregnant,17,"Black
+Declined",Non-Hispanic ,11205,Metroplus McD,38w1d,5/3/2020,,"See Report
+Not Detected",,
+272,BELLEVUE HOSPITAL CENTER,BE ED PSYCH ADULT , 05/02/2020 1231,5/7/2020,Adult Psych,Female,Pregnant,39,White,Non-Hispanic ,11212,Unitedhealthcare McD,15w5d,5/2/2020,,Negative,,
+273,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,,11550,New York Medicaid,,5/4/2020,,Negative,,
+274,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,,11423,,,5/4/2020,,Negative,,
+275,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,,Female,Pregnant,34,Unknown,,11204,,,5/13/2020,,"See Report
+Not Detected",,
+276,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,,Female,Pregnant,25,Black,,11434,Healthfirst McD,,5/5/2020,,"See Report
+Not Detected",,
+277,BELLEVUE HOSPITAL CENTER,BE ED PSYCH ADULT , ,4/25/2019,,Female,Pregnant,31,Black,Non-Hispanic ,10009,Metroplus McD,,5/11/2020,,"See Report
+TNP",,
+278,BELLEVUE HOSPITAL CENTER,BE ED PSYCH ADULT , 05/05/2020 1709,5/12/2020,Adult Psych,Female,Pregnant,30,"Other
+Other",,10002,Ny Sart,20w3d,5/5/2020,Abnormal,Positive,,
+279,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Unknown,,11550,,,5/6/2020,,Negative,,
+280,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Other,,11356,Healthfirst Comm,,5/6/2020,,Negative,,
+281,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Unknown,,12564,Mvp Comm,,5/6/2020,,Negative,,
+282,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,44,Black,,11411,Aetna Comm,,5/11/2020,,Negative,,
+283,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,Non-Hispanic ,11203,Healthfirst McD,,5/12/2020,,"See Report
+Not Detected",,
+284,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 05/11/2020 1259,5/13/2020,Obstetrics,Female,Pregnant,33,Other,Unknown ,10027,Healthfirst McD,40w3d,5/13/2020,,"See Report
+Not Detected",,
+285,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Black,,11413,Emblemhealth Comm,,5/12/2020,,Negative,,
+286,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,,11701,Emblemhealth McD,,5/12/2020,,Negative,,
+287,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Unknown,,10474,Healthfirst McD,,5/13/2020,,Negative,,
+288,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,Non-Hispanic ,10456,Metroplus McD,,5/13/2020,,"See Report
+Not Detected",,
+289,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,White,,10019,Empire Bcbs Comm,,5/13/2020,,"See Report
+Not Detected",,
+290,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,Non-Hispanic ,11377,,,5/20/2020,,Not Detected,,
+291,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,,11550,Fidelis Care McD,,5/19/2020,,"See Report
+Not Detected",,
+292,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,White,,10011,Unitedhealthcare Comm,,5/21/2020,,Not Detected,,
+293,BELLEVUE HOSPITAL CENTER,BE INTRA-OP , 05/21/2020 0425,5/21/2020,Obstetrics,Female,Pregnant,36,Asian,,11220,Healthfirst McD,25w6d,5/21/2020,,Negative,,
+294,BELLEVUE HOSPITAL CENTER,BE IP 9E MOTHER BABY , 05/22/2020 1448,5/24/2020,Gynecology,Female,Pregnant,35,Other,,11372,Healthfirst McD,26w6d,5/24/2020,,Not Detected,,
+295,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 05/23/2020 1406,5/24/2020,Gynecology,Female,Pregnant,34,Black,,11239,Not on file,,5/23/2020,,Negative,,
+296,BELLEVUE HOSPITAL CENTER,BE ED PEDIATRIC , 05/24/2020 1405,6/2/2020,Obstetrics,Female,Pregnant,20,Other,,10009,Not on file,22w6d,5/25/2020,,Negative,,
+297,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 05/26/2020 1641,5/26/2020,Obstetrics,Female,Pregnant,32,Black,,11236,Not on file,46w1d,5/27/2020,,Not Detected,,
+298,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Unknown,,11575,Unitedhealthcare McR,,5/27/2020,,Negative,,
+299,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,18,Other,,11691,Emblemhealth Comm,,5/27/2020,,Negative,,
+300,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,,10603,Affinity Health Plan McD,,5/27/2020,,Negative,,
+301,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,Unknown ,11229,New York Medicaid,,5/26/2020,,Negative,,
+302,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,Unknown ,11435,,,5/26/2020,,Negative,,
+303,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Asian,Non-Hispanic ,11101,Metroplus McD,32w3d,5/27/2020,,Negative,,
+304,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,10027,Unitedhealthcare Comm,,5/13/2020,,Negative,,
+305,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,Unknown ,11423,Healthfirst McD,,5/2/2020,Abnormal,"See Report
+Positive",,
+306,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,,Female,Pregnant,22,Other,,10473,Empire Bcbs Comm,32w0d,5/23/2020,,Not Detected,,
+307,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,,10456,,,5/11/2020,Abnormal,"See Report
+Presumptive Pos",,
+308,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Black,Non-Hispanic ,10451,New York Medicaid,32w0d,5/28/2020,,"See Report
+Not Detected",,
+309,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,,Female,Pregnant,39,Other,,10456,New York Medicaid,,5/7/2020,,"See Report
+Not Detected",,
+310,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Black,Non-Hispanic ,10463,Metroplus McD,,5/20/2020,,"See Report
+Not Detected",,
+311,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other Pacific Islander,Non-Hispanic ,10454,Metroplus McD,47w2d,5/22/2020,,"See Report
+Not Detected",,
+312,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,,Female,Pregnant,44,Black,Non-Hispanic ,10454,Metroplus McD,28w4d,5/5/2020,,"See Report
+Not Detected",,
+313,CI IDA G ISRAEL CHC,CI IDA G ISRAEL CHC , ,,Primary Care,Female,Pregnant,42,White,,11224,Fidelis Care McD,,5/14/2020,,"See Report
+Not Detected",,
+314,CI IDA G ISRAEL CHC,CI IDA G ISRAEL CHC , ,,Primary Care,Female,Pregnant,39,Other,Mexican/Mexican American ,11206,Metroplus McD,33w6d,5/11/2020,,"See Report
+Not Detected",,
+315,CI IDA G ISRAEL CHC,CI IDA G ISRAEL CHC , ,,Primary Care,Female,Pregnant,25,Unknown,,11433,Healthfirst McD,20w6d,5/13/2020,,"See Report
+Not Detected",,
+316,CI IDA G ISRAEL CHC,CI IDA G ISRAEL CHC , ,,Primary Care,Female,Pregnant,19,"White
+Unknown",Non-Hispanic ,11235,Fidelis Care McD,36w2d,5/14/2020,Abnormal,"See Report
+Invalid",,
+317,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,54,Black,Non-Hispanic ,11234,Empire Bcbs Comm,,5/11/2020,,"See Report
+Not Detected",,
+318,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 05/04/2020 0126,5/4/2020,Gynecology,Female,Pregnant,41,White,,11235,Not on file,29w5d,5/4/2020,,Negative,,
+319,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 05/04/2020 1521,5/4/2020,Adult ED,Female,Pregnant,36,Asian,Chinese ,11224,Not on file,41w0d,5/4/2020,,Negative,,
+320,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,24,White,,11230,Not on file,37w4d,5/6/2020,Abnormal,"See Report
+Positive",COVID-19 (confirmed),
+321,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 05/06/2020 1906,5/6/2020,Adult ED,Female,Pregnant,38,Other,Non-Hispanic ,11223,Not on file,25w5d,5/8/2020,,"See Report
+Not Detected",,
+322,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,34,Black,,11235,Not on file,31w5d,5/11/2020,,"See Report
+Not Detected",,
+323,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 05/09/2020 0447,5/14/2020,Obstetrics,Female,Pregnant,27,Asian,Unknown ,11235,Metroplus McD,7w6d,5/9/2020,,Negative,,
+324,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 05/11/2020 2120,5/12/2020,Ambulatory Surgery,Female,Pregnant,31,Other,,11204,Not on file,,5/12/2020,,Negative,,
+325,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,28,Asian,Non-Hispanic ,11210,Metroplus McD,28w4d,5/15/2020,,"See Report
+Not Detected",,
+326,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Black,Non-Hispanic ,11226,Metroplus McD,,5/6/2020,,Negative,,
+327,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 05/19/2020 0108,5/19/2020,Obstetrics,Female,Pregnant,22,Black,Non-Hispanic ,11223,Not on file,,5/19/2020,,Negative,,
+328,CONEY ISLAND HOSPITAL CENTER,CI PAT , ,,Preoperative Evaluation,Female,Pregnant,30,White,,11223,Not on file,,5/28/2020,,"see epic/media
+not detected",,
+329,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,11238,Empire Bcbs Comm,69w6d,5/1/2020,,"See Report
+Not Detected",,
+330,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,35,Black,,11377,Healthfirst McD,,5/28/2020,,,,
+331,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,43,Unknown,Non-Hispanic ,11377,Emergency Medicaid,44w3d,5/29/2020,,"See Report
+Not Detected",,
+332,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,33,Other,,11370,,,5/28/2020,,,,
+333,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,45,Black,Non-Hispanic ,11212,1199 National Benefit Fund,23w5d,5/4/2020,,"See Report
+Not Detected",,
+334,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,11205,Metroplus McD,,5/21/2020,,"See Report
+Not Detected",,
+335,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,Non-Hispanic ,11206,Healthfirst McD,,5/5/2020,Abnormal,"See Report
+Positive",,
+336,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Unknown,,11206,Metroplus Comm,,5/13/2020,,"See Report
+Not Detected",,
+337,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,13,Other,Non-Hispanic ,10550,Wellcare McD,,5/8/2020,,"See Report
+Not Detected",,
+338,ELMHURST HOSPITAL CENTER,EL ED ADULT , 05/11/2020 1551,5/12/2020,Surgery,Female,Pregnant,19,Other,Salvadoran ,11368,Not on file,29w0d,5/12/2020,,Negative,,
+339,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,Mexican/Mexican American ,11373,Metroplus McD,47w0d,5/30/2020,,Not Detected,,
+340,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,33,Other,,11370,Not on file,32w2d,5/24/2020,,Not Detected,,
+341,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,29,Other,,11368,New York Medicaid,14w0d,5/21/2020,,Not Detected,,
+342,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Unknown,,11102,Emergency Medicaid,,5/4/2020,,"See Report
+Not Detected",,
+343,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/06/2020 2154,5/7/2020,Obstetrics,Female,Pregnant,22,Other,,11370,Not on file,32w1d,5/8/2020,,"See Report
+Not Detected",,
+344,ELMHURST HOSPITAL CENTER,EL ED ADULT , 05/11/2020 1504,5/12/2020,Emergency,Female,Pregnant,36,American Indian or Alaskan,Bangladeshi ,11373,Not on file,27w6d,5/12/2020,,Negative,,
+345,ELMHURST HOSPITAL CENTER,EL ED ADULT , 05/13/2020 1858,5/18/2020,Medicine,Female,Pregnant,40,Other,Ecuadorian ,11373,,,5/13/2020,,Negative,,
+346,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Other,,11385,Emergency Medicaid,13w1d,5/1/2020,Abnormal,"See Report
+Positive",COVID-19 (confirmed),
+347,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,White,,11368,,,5/19/2020,,Not Detected,,
+348,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,,Female,Pregnant,38,Other,,11368,Metroplus Comm,,5/17/2020,,Not Detected,,
+349,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics,Female,Pregnant,38,Other,,11368,,20w6d,5/28/2020,Abnormal,Presumptive Positive for 2019-nCoV,COVID-19 (confirmed),
+350,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/26/2020 0612,5/28/2020,Obstetrics,Female,Pregnant,29,"Other
+Unknown",,11419,Not on file,37w0d,5/26/2020,,Indeterminated,,
+351,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Asian,,11373,,,5/1/2020,,"See Report
+Not Detected",,
+352,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/26/2020 1212,5/26/2020,Obstetrics,Female,Pregnant,28,Asian,Bangladeshi ,11372,Not on file,42w4d,5/28/2020,,Not Detected,,
+353,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/26/2020 1603,5/26/2020,Obstetrics,Female,Pregnant,23,Other,Ecuadorian ,11368,Not on file,30w6d,5/28/2020,,Not Detected,,
+354,ELMHURST HOSPITAL CENTER,EL ED ADULT , 05/27/2020 0403,5/27/2020,Emergency,Female,Pregnant,21,Other,Ecuadorian ,11367,Metroplus McD,28w3d,5/27/2020,,Negative,,
+355,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/27/2020 1058,5/27/2020,Obstetrics,Female,Pregnant,31,Other,,11368,Not on file,33w6d,5/27/2020,,Negative,,
+356,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/31/2020 0031,5/31/2020,Obstetrics,Female,Pregnant,25,Unknown,Unknown ,11434,Not on file,43w3d,5/31/2020,,Negative,COVID-19 (rule out),
+357,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 05/03/2020 0005,5/3/2020,Obstetrics,Female,Pregnant,44,Other,Ecuadorian ,11368,Not on file,-470w3d,5/3/2020,,Negative,,
+358,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,Ecuadorian ,11368,Emergency Medicaid,,5/9/2020,,"See Report
+Not Detected",,
+359,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,,11367,Emergency Medicaid,,5/12/2020,,"See Report
+Not Detected",,
+360,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Black,Non-Hispanic ,11234,Metroplus McD,32w5d,5/3/2020,,"See Report
+Not Detected",,
+361,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,,11237,Healthfirst McD,22w1d,5/7/2020,,"See Report
+Not Detected",,
+362,EY EAST NEW YORK DTC,EY MIDWOOD PRE-K , ,,Primary Care,Female,Pregnant,41,Asian,Pakistani ,11230,Not on file,,5/31/2020,,NOT DETECTED,,
+363,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,,11205,Metroplus McD,21w5d,5/22/2020,,"See Report
+Not Detected",,
+364,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Other,,11239,,47w3d,5/29/2020,,"See Report
+Not Detected",,
+365,EY EAST NEW YORK DTC,EY MIDWOOD PRE-K , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,11207,Not on file,,5/25/2020,,NOT DETECTED,,
+366,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Black,Unknown ,10002,Healthfirst McD,31w6d,5/5/2020,,"See Report
+Not Detected",,
+367,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Unknown,,11225,,28w4d,5/11/2020,,"See Report
+Not Detected",,
+368,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,Unknown ,10009,Fidelis Care McD,9w1d,5/5/2020,,"See Report
+Not Detected",,
+369,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,,Female,Pregnant,34,Black,Non-Hispanic ,10032,Medicare,,5/26/2020,,Negative,,
+370,HARLEM HOSPITAL CENTER,HA IP 4NW MOTHER BABY , 05/02/2020 1356,5/6/2020,Obstetrics,Female,Pregnant,24,Black,Non-Hispanic ,10029,Not on file,26w6d,5/2/2020,,Negative,,
+371,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,,Female,Pregnant,34,Black,Non-Hispanic ,10467,Metroplus Comm,22w2d,5/5/2020,,"See Report
+Not Detected",,
+372,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 05/23/2020 0933,5/23/2020,Obstetrics,Female,Pregnant,41,Black,,10037,Not on file,,5/23/2020,,Negative,,
+373,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 05/09/2020 1327,5/10/2020,Obstetrics,Female,Pregnant,36,Other,,10474,Not on file,,5/9/2020,,PRESUMPTIVE POS,,
+374,HARLEM HOSPITAL CENTER,HA ED ADULT , 05/12/2020 0916,5/13/2020,Medicine,Female,Pregnant,22,Black,Non-Hispanic ,10035,Metroplus McD,23w6d,5/12/2020,,Negative,,
+375,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 05/22/2020 0853,5/23/2020,Gynecology,Female,Pregnant,31,Other,,10030,Emergency Medicaid,28w0d,5/22/2020,,Negative,,
+376,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 05/24/2020 0218,5/24/2020,Obstetrics,Female,Pregnant,31,Black,Non-Hispanic ,10035,Unitedhealthcare McD,22w3d,5/25/2020,,Not Detected,,
+377,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 05/31/2020 0917,6/1/2020,Obstetrics,Female,Pregnant,43,Black,,10451,Not on file,23w5d,5/31/2020,,Negative,,
+378,HARLEM HOSPITAL CENTER,HA IP 4NW MOTHER BABY , 05/04/2020 1237,5/4/2020,Obstetrics,Female,Pregnant,38,Other,,10451,Emergency Medicaid,19w2d,5/5/2020,,"See Report
+Not Detected",,
+379,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/01/2020 0703,5/1/2020,Obstetrics,Female,Pregnant,49,Black,,71203,Not on file,,5/1/2020,,Negative,,
+380,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/04/2020 2000,5/10/2020,Gynecology,Female,Pregnant,26,Black,Non-Hispanic ,11417,Not on file,21w5d,5/5/2020,,Negative,,
+381,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/08/2020 0512,5/8/2020,Emergency,Female,Pregnant,38,Other,,10467,Not on file,20w4d,5/8/2020,,Negative,,
+382,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Unknown,,10035,Emergency Medicaid,,5/13/2020,,"See Report
+Not Detected",,
+383,JACOBI MEDICAL CENTER,JA IP 3A SURGERY , 05/14/2020 0827,5/18/2020,Gynecology,Female,Pregnant,28,Other,Bangladeshi ,10469,Not on file,,5/15/2020,,Negative,,
+384,JACOBI MEDICAL CENTER,JA WOMENS OPTIONS , ,,GYN TOP Counsel,Female,Pregnant,39,Black,Non-Hispanic ,10462,Fidelis Care McD,,5/19/2020,,Negative,,
+385,JACOBI MEDICAL CENTER,JA ED ADULT , 05/18/2020 0924,5/19/2020,Medicine,Female,Pregnant,31,White,Non-Hispanic ,10458,Fidelis Care McD,,5/18/2020,,Negative,MRSA (confirmed),
+386,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/19/2020 1156,5/19/2020,Obstetrics,Female,Pregnant,33,Black,Non-Hispanic ,10469,Not on file,20w5d,5/19/2020,,Negative,,
+387,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,36,Black,Non-Hispanic ,10458,New York Medicaid,23w5d,5/22/2020,,"see scan report
+not detected",,
+388,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,25,Other,Non-Hispanic ,10462,Metroplus McD,22w0d,5/23/2020,,Not detected,,
+389,JACOBI MEDICAL CENTER,JA ED ADULT , 05/21/2020 1417,5/22/2020,Emergency,Female,Pregnant,31,Black,Non-Hispanic ,10453,Not on file,,5/21/2020,,Negative,,
+390,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/24/2020 1713,5/24/2020,Obstetrics,Female,Pregnant,19,Black,,10467,Not on file,34w3d,5/24/2020,,Negative,,
+391,JACOBI MEDICAL CENTER,JA ED ADULT , 05/23/2020 1239,5/23/2020,Emergency,Female,Pregnant,37,White,Non-Hispanic ,10462,Not on file,44w0d,5/23/2020,,Negative,,
+392,JACOBI MEDICAL CENTER,JA ED ADULT , 05/26/2020 0724,5/27/2020,Medicine,Female,Pregnant,28,Other,Puerto Rican ,10465,Not on file,20w3d,5/26/2020,,Negative,,
+393,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/27/2020 0246,5/28/2020,Obstetrics,Female,Pregnant,18,Unknown,,10458,Not on file,38w1d,5/27/2020,,Negative,,
+394,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,White,Non-Hispanic ,10464,Healthfirst McD,31w1d,5/29/2020,,Not Detected,,
+395,JACOBI MEDICAL CENTER,JA ED ADULT , 05/29/2020 0713,5/29/2020,Obstetrics,Female,Pregnant,41,Other,Other Hispanic ,10462,New York Medicaid,27w6d,5/29/2020,,Negative,,
+396,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,25,Unknown,,10472,Metroplus McD,29w3d,5/1/2020,Abnormal,"See Report
+Presumptive Pos",,
+397,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/11/2020 1201,5/11/2020,Obstetrics,Female,Pregnant,35,Asian,Filipino ,10475,Metroplus Comm,37w0d,5/11/2020,,Negative,,
+398,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,23,Black,Non-Hispanic ,11226,Metroplus Comm,38w1d,5/18/2020,,Not Detected,,
+399,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/01/2020 1308,5/5/2020,Obstetrics,Female,Pregnant,28,Black,Non-Hispanic ,11207,Not on file,49w2d,5/2/2020,,Negative,,
+400,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/04/2020 1720,5/13/2020,Surgery,Female,Pregnant,33,White,Non-Hispanic ,10467,Emblemhealth McD,,5/6/2020,,"See Report
+Not Detected",,
+401,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,Mexican/Mexican American ,11235,Metroplus McD,27w4d,5/14/2020,,"See Report
+Not Detected",,
+402,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/05/2020 1503,5/6/2020,Emergency,Female,Pregnant,33,Black,Non-Hispanic ,11203,Not on file,,5/6/2020,,Negative,,
+403,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/05/2020 1839,5/7/2020,Gynecology,Female,Pregnant,38,Black,Non-Hispanic ,11226,Not on file,37w5d,5/5/2020,,Negative,,
+404,KINGS COUNTY HOSPITAL CENTER,KC WOMENS OPTIONS , ,,WHS Women’s Options,Female,Pregnant,18,Black,Non-Hispanic ,11203,Not on file,,5/6/2020,,Negative,,
+405,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Black,,11233,New York Medicaid,,5/29/2020,,"See Report
+Not Detected",,
+406,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/11/2020 1610,5/11/2020,Obstetrics,Female,Pregnant,35,Black,Non-Hispanic ,11208,Healthfirst McD,33w6d,5/11/2020,,Negative,COVID-19 (rule out),
+407,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/12/2020 1345,5/14/2020,Obstetrics,Female,Pregnant,32,Black,Unknown ,11226,Not on file,,5/12/2020,,Negative,,
+408,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/14/2020 0602,5/16/2020,Obstetrics,Female,Pregnant,31,Black,,11212,Not on file,39w0d,5/14/2020,,Negative,COVID-19 (rule out),
+409,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/16/2020 1433,5/16/2020,Emergency,Female,Pregnant,35,Black,Non-Hispanic ,11226,Empire Bcbs Healthplus McD,17w3d,5/16/2020,Abnormal,Positive,COVID-19 (confirmed),
+410,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Black,,11236,Empire Bcbs Healthplus McD,,5/18/2020,,Negative,,
+411,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/19/2020 1826,5/20/2020,Gynecology,Female,Pregnant,33,Black,Non-Hispanic ,11205,Not on file,,5/19/2020,,Negative,,
+412,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/20/2020 1128,5/21/2020,Emergency,Female,Pregnant,37,Black,Unknown ,11226,Not on file,32w6d,5/20/2020,,Negative,,
+413,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/21/2020 0533,5/22/2020,Gynecology,Female,Pregnant,40,Black,Non-Hispanic ,11233,Not on file,,5/21/2020,,Negative,,
+414,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/21/2020 2144,5/22/2020,Surgery,Female,Pregnant,40,Black,,11224,Not on file,,5/22/2020,,Negative,,
+415,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/23/2020 0927,5/24/2020,Medicine,Female,Pregnant,30,Black,Non-Hispanic ,11226,Not on file,30w0d,5/27/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+416,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/23/2020 1436,5/23/2020,Emergency,Female,Pregnant,27,Other,Puerto Rican ,11210,Metroplus McD,21w1d,5/23/2020,,Negative,,
+417,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/24/2020 1135,5/24/2020,Emergency,Female,Pregnant,27,Black,Non-Hispanic ,11226,Not on file,,5/24/2020,,Negative,,
+418,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/26/2020 1005,5/29/2020,Surgery,Female,Pregnant,44,Black,Non-Hispanic ,11208,Not on file,,5/26/2020,,Negative,,
+419,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/27/2020 1325,5/28/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,11212,Not on file,32w2d,5/27/2020,,Negative,,
+420,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/27/2020 1543,5/29/2020,Obstetrics,Female,Pregnant,33,Black,,11233,Not on file,39w5d,5/27/2020,,Negative,,
+421,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 05/27/2020 2320,5/28/2020,Gynecology,Female,Pregnant,33,Black,Non-Hispanic ,11233,Not on file,,5/28/2020,,Negative,,
+422,KINGS COUNTY HOSPITAL CENTER,KC ED PEDIATRIC , 05/02/2020 1310,5/2/2020,Emergency,Female,Pregnant,17,Black,Non-Hispanic ,11234,Not on file,23w2d,5/4/2020,,"See Report
+Not Detected",,
+423,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 05/27/2020 1214,5/28/2020,Obstetrics,Female,Pregnant,22,Other,Unknown ,11210,Not on file,37w0d,5/27/2020,,Negative,,
+424,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,,11434,Empire Bcbs Comm,,5/7/2020,,"See Report
+Not Detected",,
+425,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,Colombian ,10473,Emblemhealth Comm,25w5d,5/1/2020,Abnormal,"See Report
+Presumptive Pos",,
+426,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Black,Non-Hispanic ,10462,Not on file,,5/12/2020,,"See Report
+Not Detected",,
+427,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/21/2020 1353,5/21/2020,Emergency,Female,Pregnant,36,Black,Non-Hispanic ,10457,Healthfirst McD,11w0d,5/22/2020,,Not Detected,,
+428,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,Non-Hispanic ,10454,Healthfirst Comm,,5/18/2020,,"SEE REPORT
+Not Detected",,
+429,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/04/2020 1141,5/4/2020,Emergency,Female,Pregnant,28,White,Unknown ,10455,Fidelis Care McD,,5/4/2020,Abnormal,Positive,COVID-19 (confirmed),
+430,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Other,Nicaraguan ,10459,Healthfirst McD,35w4d,5/1/2020,,"See Report
+Not Detected",,
+431,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 04/30/2020 1831,4/30/2020,Obstetrics,Female,Pregnant,23,Unknown,,10460,Healthfirst McD,50w6d,5/1/2020,Abnormal,Positive,,
+432,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,,10469,Emblemhealth Comm,29w1d,5/11/2020,,"See Report
+Not Detected",,
+433,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/06/2020 0308,5/6/2020,Emergency,Female,Pregnant,22,Other,,10466,Not on file,,5/6/2020,,Negative,,
+434,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/10/2020 0045,5/11/2020,Medicine,Female,Pregnant,30,Other,,10463,Not on file,,5/10/2020,,Negative,,
+435,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/12/2020 2052,5/13/2020,Emergency,Female,Pregnant,30,Black,Non-Hispanic ,10456,Unitedhealthcare McD,,5/13/2020,,Negative,,
+436,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 05/12/2020 2033,5/19/2020,Obstetrics,Female,Pregnant,22,Unknown,,10467,Not on file,40w3d,5/13/2020,,Negative,,
+437,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,,10456,Metroplus McD,31w3d,5/14/2020,,"See Report
+Not Detected",,
+438,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Obstetrics High Risk,Female,Pregnant,27,American Indian or Alaskan,Non-Hispanic ,10454,Not on file,38w1d,5/15/2020,,"SEE REPORT
+NOT DETECTED",,
+439,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,10451,Fidelis Care McD,32w5d,5/18/2020,,"SEE REPORT
+Not Detected",,
+440,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,"Other
+Other",,11368,Metroplus McD,27w0d,5/28/2020,,Not Detected,,
+441,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 05/15/2020 0204,5/16/2020,Obstetrics,Female,Pregnant,18,Other,,11210,Not on file,36w0d,5/15/2020,,Negative,,
+442,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/21/2020 1819,5/22/2020,Medicine,Female,Pregnant,29,Other,,10453,Not on file,9w5d,5/22/2020,,Negative,,
+443,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/30/2020 0711,5/30/2020,Amb Surgery,Female,Pregnant,27,Other,,10455,Not on file,,5/30/2020,,Negative,,
+444,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,10460,Fidelis Care McD,13w5d,5/18/2020,,"SEE REPORT
+Not Detected",,
+445,LINCOLN MEDICAL CENTER,LI ED ADULT , 05/04/2020 1138,5/4/2020,Emergency,Female,Pregnant,22,Other,Puerto Rican ,10460,Healthfirst McD,25w4d,5/4/2020,,Negative,,
+446,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Black,Non-Hispanic ,10472,New York Medicaid,17w3d,5/29/2020,,Not Detected,,
+447,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Other,,11418,,,5/18/2020,,"SEE REPORT
+Not Detected",,
+448,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,23,Black,Non-Hispanic ,10457,Not on file,48w3d,5/19/2020,Abnormal,Positive,,
+449,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,,10469,Unitedhealthcare McD,31w4d,5/15/2020,,"SEE REPORT
+POSITIVE",,
+450,LINCOLN MEDICAL CENTER,LI PS X017 TC , ,,Primary Care,Female,Pregnant,22,Other,Unknown ,10456,Fidelis Care McD,26w2d,5/31/2020,,NOT DETECTED,,
+451,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 05/04/2020 1622,5/6/2020,Medicine,Female,Pregnant,36,Other,,10453,Not on file,34w5d,5/4/2020,Abnormal,Positive,,
+452,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,34,Other,,10454,Not on file,31w2d,5/13/2020,,Negative,,
+453,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 05/13/2020 1505,5/19/2020,Medicine,Female,Pregnant,29,Other,,11106,Metroplus McD,35w3d,5/13/2020,Abnormal,Positive,,
+454,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Black,Non-Hispanic ,10128,Healthfirst McD,22w0d,5/22/2020,,Not Detected,,
+455,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 04/30/2020 1732,5/3/2020,Obstetrics,Female,Pregnant,34,Other,,11377,Not on file,40w3d,5/3/2020,,"See Report
+Not Detected",,
+456,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 05/03/2020 1209,5/6/2020,Obstetrics,Female,Pregnant,32,Other,,10032,New York Medicaid,26w6d,5/4/2020,,Negative,,
+457,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 05/10/2020 1946,5/13/2020,Obstetrics,Female,Pregnant,28,Other,Ecuadorian ,10467,Not on file,37w3d,5/10/2020,,Negative,,
+458,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 05/10/2020 1954,5/12/2020,Obstetrics,Female,Pregnant,26,White,,11201,Not on file,,5/11/2020,,Negative,,
+459,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,,Female,Pregnant,35,Other,,10029,Unitedhealthcare Comm,39w0d,5/22/2020,,Not Detected,,
+460,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 05/15/2020 2343,5/17/2020,Obstetrics,Female,Pregnant,32,American Indian or Alaskan,,10029,Not on file,39w1d,5/16/2020,,Negative,,
+461,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Puerto Rican ,10457,Healthfirst McD,37w6d,5/23/2020,,"See Report
+Not Detected",COVID-19 (confirmed),
+462,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Black,Non-Hispanic ,10456,Metroplus McD,45w1d,5/15/2020,,"See Report
+Not Detected",,
+463,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,Dominican ,10458,,,5/23/2020,,"See Report
+Not Detected",,
+464,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Other,,10452,Emergency Medicaid,17w0d,5/19/2020,,"See Report
+Not Detected",,
+465,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,"Other
+Unknown",,10451,Unitedhealthcare McD,23w6d,5/20/2020,,Not Detected,COVID-19 (confirmed),
+466,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,,10452,Metroplus McD,30w2d,5/28/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+467,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,,Female,Pregnant,27,Unknown,,10458,New York Medicaid,21w5d,5/21/2020,,Not Detected,,
+468,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,Unknown ,10452,Metroplus McD,,5/15/2020,,"See Report
+Not Detected",,
+469,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Unknown,,10456,Healthfirst McD,29w4d,5/27/2020,,"See Report
+Not Detected",,
+470,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,,Female,Pregnant,33,"Declined
+Black",Non-Hispanic ,10460,Emblemhealth Comm,35w4d,5/7/2020,Abnormal,"See Report
+Positive",,
+471,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 05/11/2020 0816,5/11/2020,Obstetrics,Female,Pregnant,28,Other,Puerto Rican ,10467,Not on file,29w2d,5/11/2020,Abnormal,Positive,,
+472,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,,Female,Pregnant,42,Other,Non-Hispanic ,10467,Emergency Medicaid,22w4d,5/28/2020,,Not Detected,,
+473,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics,Female,Pregnant,23,Asian,Non-Hispanic ,10466,Healthfirst McD,29w2d,5/5/2020,,Negative,,
+474,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 05/08/2020 1044,,Emergency,Female,Pregnant,36,Black,Unknown ,10473,Fidelis Care McD,,5/8/2020,,Negative,,
+475,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 05/11/2020 1121,5/11/2020,Obstetrics,Female,Pregnant,37,Other,,10472,Not on file,29w0d,5/11/2020,,Negative,,
+476,NORTH CENTRAL BRONX HOSPITAL,NO ED PEDIATRIC , 05/15/2020 0344,5/15/2020,Obstetrics,Female,Pregnant,18,Other,,10467,Healthfirst McD,,5/15/2020,Abnormal,Positive,COVID-19 (confirmed),
+477,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,55,Black,Non-Hispanic ,10462,Empire Bcbs Comm,,5/5/2020,,Negative,,
+478,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,35,Other,Other Hispanic ,10460,Metroplus McD,26w4d,5/6/2020,,Negative,,
+479,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 05/23/2020 1755,5/23/2020,Emergency,Female,Pregnant,30,Black,Non-Hispanic ,10453,Not on file,23w6d,5/23/2020,,Negative,,
+480,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 05/24/2020 0030,5/24/2020,Obstetrics,Female,Pregnant,21,Other,Declined ,10458,Metroplus McD,31w2d,5/24/2020,,Negative,,
+481,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 05/26/2020 1101,5/26/2020,Emergency,Female,Pregnant,24,Other,Puerto Rican ,11692,Not on file,,5/26/2020,,Negative,,
+482,NORTH CENTRAL BRONX HOSPITAL,NO PAT DEPARTMENT , ,,Preoperative Evaluation,Female,Pregnant,26,Black,Non-Hispanic ,10470,Not on file,30w2d,5/26/2020,,,,
+483,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 05/30/2020 2350,5/31/2020,Obstetrics,Female,Pregnant,25,Unknown,,10456,Not on file,34w3d,5/31/2020,,Negative,,
+484,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,22,Unknown,Unknown ,10467,Not on file,26w5d,5/21/2020,,Negative,,
+485,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,36,Other,Unknown ,10468,Not on file,33w2d,5/22/2020,,Detected,,
+486,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,Non-Hispanic ,11412,Unitedhealthcare McD,36w3d,5/6/2020,,"See Report
+Not Detected",,
+487,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Other,Declined ,11368,Emergency Medicaid,,5/16/2020,,"see scan
+Not Detected",,
+488,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/02/2020 1659,5/4/2020,Obstetrics,Female,Pregnant,18,Other,,11419,Not on file,46w1d,5/3/2020,,"See Report
+Not Detected",,
+489,QUEENS HOSPITAL CENTER,QU ED ADULT , 05/03/2020 1757,5/4/2020,Emergency,Female,Pregnant,27,Other,Colombian ,11423,Healthfirst McD,24w2d,5/3/2020,,Negative,,
+490,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,,11433,Healthfirst McD,,5/13/2020,,"See Report
+Not Detected",,
+491,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,45,Other,Colombian ,11374,,,5/7/2020,,"See Report
+Not Detected",,
+492,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/07/2020 0005,5/7/2020,Obstetrics,Female,Pregnant,31,Asian,,11433,Not on file,29w6d,5/7/2020,,Negative,,
+493,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,Other Hispanic ,11432,Metroplus Comm,27w5d,5/24/2020,Abnormal,Presumptive Positive for 2019-nCoV,,
+494,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/08/2020 1818,5/8/2020,Obstetrics,Female,Pregnant,15,Black,Non-Hispanic ,10473,Not on file,41w6d,5/8/2020,,Negative,,
+495,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,,11373,Healthfirst McD,38w6d,5/12/2020,,"See Report
+Not Detected",,
+496,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,"White
+Other
+Unknown",Ecuadorian ,11368,,9w2d,5/12/2020,,"See Report
+Not Detected",,
+497,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,34,Other,Peruvian ,11372,,,5/13/2020,,Negative,,
+498,QUEENS HOSPITAL CENTER,QU ED ADULT , 05/13/2020 1932,5/16/2020,Obstetrics,Female,Pregnant,25,Black,Unknown ,11436,Not on file,28w4d,5/14/2020,,Negative,,
+499,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,45,"Other
+White",Ecuadorian ,11420,Healthfirst Comm,11w2d,5/17/2020,,"see scan
+Positive",,
+500,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/20/2020 0927,5/20/2020,Obstetrics,Female,Pregnant,25,Other,,11419,Not on file,,5/20/2020,,Negative,,
+501,QUEENS HOSPITAL CENTER,QU ED ADULT , 05/26/2020 2117,5/27/2020,Emergency,Female,Pregnant,18,Other,,11435,Not on file,,5/27/2020,,Negative,,
+502,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/26/2020 1047,6/1/2020,Obstetrics,Female,Pregnant,32,Black,Non-Hispanic ,11427,Medicare,46w4d,5/26/2020,,Negative,,
+503,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,34,Other,,11419,Not on file,,5/27/2020,,Negative,,
+504,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/29/2020 1351,5/29/2020,Obstetrics,Female,Pregnant,36,Asian,Unknown ,11435,Metroplus Comm,34w4d,5/29/2020,,Negative,,
+505,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,Non-Hispanic ,11423,Metroplus McD,17w2d,5/13/2020,,"See Report
+Not Detected",,
+506,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 05/03/2020 1158,5/3/2020,Obstetrics,Female,Pregnant,30,Other,Unknown ,11416,Not on file,52w6d,5/3/2020,,Negative,,
+507,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 05/12/2020 1253,5/12/2020,Ambulatory Surgery,Female,Pregnant,31,Other,,11203,Not on file,33w5d,5/14/2020,Abnormal,"See Report
+Positive",,
+508,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,,11237,New York Medicaid,23w4d,5/24/2020,,"SEE REPORT
+NOT DETECTED",,
+509,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 05/01/2020 1414,5/1/2020,Obstetrics,Female,Pregnant,21,Black,Non-Hispanic ,11208,Not on file,39w4d,5/1/2020,,Negative,,
+510,WOODHULL MEDICAL CENTER,WO INTRA-OP , 05/12/2020 0753,5/12/2020,Surgery,Female,Pregnant,33,Other,,11233,Unitedhealthcare Comm,,5/12/2020,,Negative,,
+511,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Other,,11385,Emergency Medicaid,,5/13/2020,,"See Report
+Not Detected",,
+512,WOODHULL MEDICAL CENTER,WO WOMENS HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,30,Other,Unknown ,11221,Metroplus McD,18w5d,5/18/2020,,"See Report
+Not Detected",,
+513,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 05/17/2020 1005,5/21/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,11206,Not on file,31w6d,5/17/2020,,Not Detected,,
+514,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 05/18/2020 1130,5/21/2020,Obstetrics,Female,Pregnant,29,Other,Unknown ,11206,Not on file,36w5d,5/24/2020,,"SEE REPORT
+NOT DETECTED",COVID-19 (rule out),
+515,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Black,Non-Hispanic ,11206,Fidelis Care McD,18w4d,5/22/2020,,"Not Detected
+See Report",,
+516,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 05/20/2020 1718,5/24/2020,Obstetrics,Female,Pregnant,39,Black,,10009,Not on file,33w4d,5/23/2020,,"Not Detected
+See Report",,
+517,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 05/25/2020 0732,5/25/2020,Obstetrics,Female,Pregnant,34,Black,Non-Hispanic ,11208,Emblemhealth McD,44w1d,5/25/2020,,Negative,,
+518,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,Unknown ,10025,Emblemhealth Comm,31w3d,6/13/2020,,Not Detected,,
+519,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,Non-Hispanic ,11373,Metroplus McD,33w2d,6/13/2020,,Not Detected,,
+520,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,,11421,Healthfirst McD,39w6d,6/1/2020,,Not Detected,,
+521,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 05/31/2020 2055,6/1/2020,Emergency,Female,Pregnant,35,White,,11385,Not on file,37w1d,6/1/2020,,Negative,,
+522,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Unknown,,11550,Affinity Health Plan McD,,6/1/2020,,Negative,,
+523,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,,11207,Emblemhealth McD,,6/1/2020,,Negative,,
+524,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Black,,11207,Emblemhealth Comm,,6/4/2020,,Not Detected,,
+525,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,White,,13905,Medicaid Hmo Misc,,6/4/2020,,Not Detected,,
+526,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Unknown,,11570,New York Medicaid,,6/3/2020,,Negative,,
+527,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 06/08/2020 0034,6/8/2020,Obstetrics,Female,Pregnant,35,Other,Non-Hispanic ,10009,New York Medicaid,17w2d,6/9/2020,,Not Detected,,
+528,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Unknown,,7524,Empire Bcbs Comm,,6/8/2020,,Negative,,
+529,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,,7202,Empire Bcbs Comm,,6/8/2020,,Negative,,
+530,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,20,White,,10025,Healthfirst McD,,6/10/2020,,Negative,,
+531,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 06/10/2020 0901,6/10/2020,Emergency,Female,Pregnant,43,Other,Ecuadorian ,11101,Healthfirst McD,,6/11/2020,,Not Detected,,
+532,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,46,Unknown,,10472,Metroplus Comm,,6/10/2020,,Negative,,
+533,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other,,10460,Healthfirst McD,,6/11/2020,,Negative,,
+534,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Asian,Bangladeshi ,10465,Aetna Comm,,6/11/2020,,Negative,,
+535,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 06/04/2020 2224,6/5/2020,Obstetrics,Female,Pregnant,27,Black,,10029,Healthfirst Comm,43w3d,6/5/2020,,Negative,,
+536,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,10031,Metroplus Comm,10w4d,6/9/2020,,Not Detected,,
+537,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV WOMENS HEALTH SVCES , ,,Obstetrics,Female,Pregnant,27,Other,,10454,Not on file,29w0d,6/1/2020,,Not Detected,,
+538,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,,Female,Pregnant,41,Other,,10460,,,6/1/2020,,"See Report
+Not Detected",,
+539,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,16,Other,,10454,Healthfirst McD,34w0d,6/2/2020,,"See report
+Not detected",,
+540,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Other,Unknown ,10455,Healthfirst McD,31w6d,6/10/2020,,"See Report
+Not detected",,
+541,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,,10453,Aetna Comm,42w0d,6/10/2020,,Not Detected,,
+542,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 06/02/2020 0520,6/2/2020,Ambulatory Surgery,Female,Pregnant,22,Other,Mexican/Mexican American ,11223,Not on file,28w3d,6/2/2020,Abnormal,Positive,COVID-19 (confirmed),
+543,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,30,White,,11235,Not on file,,6/4/2020,,Negative,,
+544,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 06/02/2020 0038,6/2/2020,Observation,Female,Pregnant,18,Black,,10458,Not on file,17w6d,6/3/2020,,"see epic media
+Not Detected",,
+545,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 06/11/2020 0610,6/11/2020,Ambulatory Surgery,Female,Pregnant,43,Black,Non-Hispanic ,11236,Not on file,,6/11/2020,,Negative,,
+546,CU JONATHAN WILLIAMS CHILD HEALTH,CU JONATHAN WILLIAMS , ,,Primary Care,Female,Pregnant,45,Other,Unknown ,11221,Metroplus McD,46w0d,6/9/2020,,Not Detected,,
+547,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other,,11208,,,6/1/2020,,Not Detected,,
+548,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,Non-Hispanic ,11201,Metroplus McR,20w1d,6/6/2020,,Not Detected,,
+549,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,White,Ecuadorian ,11377,Metroplus McD,35w5d,6/1/2020,,Not Detected,,
+550,ELMHURST HOSPITAL CENTER,EL GYNECOLOGY WHS , ,,Gyno,Female,Pregnant,36,Asian,,11368,Not on file,,6/11/2020,,Not Detected,,
+551,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/05/2020 0117,6/5/2020,Emergency,Female,Pregnant,33,Other Pacific Islander,Non-Hispanic ,11372,Not on file,,6/5/2020,,Negative,,
+552,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,11368,Healthfirst McD,29w1d,6/6/2020,,Not Detected,,
+553,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,34,Unknown,Other Hispanic ,11368,Not on file,,6/11/2020,,NOT DETECTED,,
+554,ELMHURST HOSPITAL CENTER,EL GYN SURGERY , ,,GYN Surgery,Female,Pregnant,18,Other,Mexican/Mexican American ,11369,Healthfirst McD,,6/11/2020,,Not Detected,,
+555,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/11/2020 1049,6/12/2020,Gynecology,Female,Pregnant,30,White,,11208,Fidelis Care Comm,,6/12/2020,,Not Detected,,
+556,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/13/2020 0638,6/16/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,11101,Healthfirst McD,47w4d,6/13/2020,,Negative,,
+557,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,,11368,Metroplus McD,23w4d,6/14/2020,,Not Detected,,
+558,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,40,Other,Mexican/Mexican American ,11372,Metroplus McD,,6/6/2020,,NOT DETECTED,,
+559,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,36,Other,Non-Hispanic ,11377,,26w0d,6/9/2020,,NOT DETECTED,,
+560,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,38,Other,Mexican/Mexican American ,11368,Not on file,35w5d,6/13/2020,,NOT DETECTED,,
+561,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,37,Other,Ecuadorian ,11377,Metroplus McD,17w1d,6/4/2020,,NOT DETECTED,,
+562,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,,11421,Healthfirst McD,39w4d,6/10/2020,,Not Detected,,
+563,ELMHURST HOSPITAL CENTER,EL BEACH 39TH TC , ,,Primary Care,Female,Pregnant,23,Black,Non-Hispanic ,11212,Not on file,26w2d,6/9/2020,,NOT DETECTED,,
+564,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,27,Other,,11373,Not on file,32w1d,6/14/2020,,NOT DETECTED,,
+565,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Black,Non-Hispanic ,11236,Empire Bcbs Comm,,6/1/2020,,Not Detected,,
+566,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,,11385,Emergency Medicaid,39w2d,6/1/2020,,Not Detected,,
+567,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,Asian,,10033,Emergency Medicaid,25w2d,6/1/2020,,Not Detected,,
+568,HARLEM HOSPITAL CENTER,HA ED PSYCH , 06/04/2020 0233,6/10/2020,Adult Psych,Female,Pregnant,21,Black,Non-Hispanic ,10027,Not on file,37w4d,6/4/2020,,Negative,,
+569,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,49,Other,,10458,Emergency Medicaid,,6/13/2020,,Not Detected,,
+570,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/12/2020 2103,6/13/2020,Obstetrics,Female,Pregnant,22,Black,Unknown ,10026,Metroplus McD,34w6d,6/12/2020,,Negative,,
+571,HC HENRY J CARTER LTAC,HC EMP OCC HLTH SVCS , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,10467,Not on file,39w0d,6/10/2020,,Not Detected,,
+572,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 05/26/2020 1154,5/26/2020,Obstetrics,Female,Pregnant,35,Other,Ecuadorian ,10461,Metroplus McD,35w3d,6/2/2020,,Invalid,,
+573,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,White,,10468,Empire Bcbs Healthplus McD,30w3d,6/9/2020,,Not Detected,,
+574,JACOBI MEDICAL CENTER,JA ED ADULT , 06/02/2020 0907,6/3/2020,Obstetrics,Female,Pregnant,23,Black,Non-Hispanic ,10705,Not on file,18w6d,6/3/2020,,Negative,,
+575,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Black,Non-Hispanic ,10467,Metroplus McD,,6/1/2020,,Not Detected,,
+576,JACOBI MEDICAL CENTER,JA ED ADULT , 06/06/2020 2328,6/7/2020,Emergency,Female,Pregnant,25,Black,Non-Hispanic ,10469,Not on file,21w1d,6/8/2020,,Not Detected,,
+577,JACOBI MEDICAL CENTER,JA ED ADULT , 06/13/2020 1848,6/17/2020,Emergency,Female,Pregnant,31,Black,Non-Hispanic ,10457,Not on file,19w6d,6/14/2020,,Negative,,
+578,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,Other,Puerto Rican ,10460,Empire Bcbs Comm,17w2d,6/6/2020,,Not Detected,,
+579,JACOBI MEDICAL CENTER,JA ED ADULT , 06/08/2020 1545,6/9/2020,Pediatric Intensive Care,Female,Pregnant,22,Other,Puerto Rican ,10472,Not on file,,6/8/2020,,Negative,,
+580,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Black,Non-Hispanic ,11234,New York Medicaid,,6/3/2020,,"SEE REPORT
+Not Detected",,
+581,KINGS COUNTY HOSPITAL CENTER,KC IPP R6W PSYCH ADOL , 05/27/2020 0010,6/12/2020,Adult Psych,Female,Pregnant,37,Black,Non-Hispanic ,11233,Not on file,,6/3/2020,Abnormal,Positive for 2019-nCoV,,
+582,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Black,,11213,Not on file,32w2d,6/11/2020,,Not Detected,COVID-19 (rule out),
+583,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Black,Non-Hispanic ,11234,Metroplus McD,36w1d,6/11/2020,,Not Detected,,
+584,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Black,Non-Hispanic ,11208,Healthfirst McD,32w6d,6/5/2020,,Not Detected,,
+585,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Black,Unknown ,11212,,14w2d,6/7/2020,,Not Detected,,
+586,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Black,Non-Hispanic ,11236,Not on file,29w4d,6/12/2020,,Not Detected,MRSA (confirmed),
+587,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 06/06/2020 2102,6/10/2020,Obstetrics,Female,Pregnant,28,Black,,11208,Not on file,42w2d,6/6/2020,,Negative,,
+588,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 06/08/2020 2116,6/15/2020,Obstetrics,Female,Pregnant,26,"Black
+Other",Non-Hispanic ,11369,Healthfirst McD,29w1d,6/10/2020,,Not Detected,,
+589,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 06/01/2020 1423,6/9/2020,Obstetrics,Female,Pregnant,27,Black,Non-Hispanic ,11225,Not on file,31w6d,6/4/2020,,Not Detected,,
+590,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,Non-Hispanic ,11212,Emergency Medicaid,34w6d,6/12/2020,,Not Detected,COVID-19 (rule out),
+591,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Other,,10458,Fidelis Care Comm,,6/5/2020,,Not Detected,,
+592,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 06/05/2020 2105,6/8/2020,Obstetrics,Female,Pregnant,20,Other,Dominican ,10451,Not on file,39w3d,6/5/2020,,Negative,,
+593,LINCOLN MEDICAL CENTER,LI INTRA-OP , 06/09/2020 0912,6/9/2020,Surgery,Female,Pregnant,37,Black,,10456,Not on file,,6/9/2020,,Negative,,
+594,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 06/09/2020 2020,6/9/2020,Obstetrics,Female,Pregnant,21,Black,Non-Hispanic ,10454,Fidelis Care McD,28w6d,6/10/2020,,Not Detected,,
+595,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Asian,Non-Hispanic ,10461,Not on file,,6/2/2020,,Not Detected,,
+596,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 06/02/2020 1607,6/2/2020,OBS/GYN PERI,Female,Pregnant,32,White,Non-Hispanic ,10035,Not on file,34w0d,6/2/2020,,Negative,,
+597,METROPOLITAN HOSPITAL CENTER,ME FAMILY MEDICINE CLINIC , ,,EOHS,Female,Pregnant,36,Black,Unknown ,7111,Healthfirst McD,17w2d,6/5/2020,,Not Detected,,
+598,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 06/04/2020 0706,6/4/2020,Obstetrics,Female,Pregnant,37,Unknown,,10003,Not on file,28w5d,6/4/2020,,Negative,,
+599,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,,11101,New York Medicaid,,6/11/2020,,Not Detected,,
+600,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 06/09/2020 0940,6/12/2020,Obstetrics,Female,Pregnant,34,Other,,11368,Not on file,47w2d,6/9/2020,,Negative,,
+601,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Declined,,10472,Metroplus Comm,,6/4/2020,,Not Detected,,
+602,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,,Female,Pregnant,31,Other,Ecuadorian ,10468,Healthfirst McD,9w1d,6/2/2020,Abnormal,Presumptive Positive for 2019-nCoV,COVID-19 (confirmed),
+603,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Gynecology,Female,Pregnant,34,Black,Non-Hispanic ,10550,Not on file,,6/2/2020,,Negative,,
+604,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 06/05/2020 2025,6/6/2020,Obstetrics,Female,Pregnant,27,,,10452,Not on file,26w0d,6/6/2020,,Negative,,
+605,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 06/04/2020 1632,6/4/2020,Emergency,Female,Pregnant,28,Black,Non-Hispanic ,10473,Not on file,19w2d,6/4/2020,,Negative,,
+606,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 06/11/2020 1225,6/11/2020,Emergency,Female,Pregnant,39,Other,,10468,Not on file,25w6d,6/11/2020,,Negative,,
+607,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 06/13/2020 1605,6/14/2020,Emergency,Female,Pregnant,35,Other,,10463,Not on file,15w6d,6/13/2020,,Negative,,
+608,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/01/2020 1629,6/1/2020,Emergency,Female,Pregnant,21,Unknown,,11436,Not on file,,6/4/2020,,Not Detected,,
+609,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/02/2020 1737,6/2/2020,Emergency,Female,Pregnant,32,Other,Non-Hispanic ,11435,Emergency Medicaid,8w2d,6/10/2020,,Not Detected,,
+610,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/06/2020 0936,6/6/2020,Emergency,Female,Pregnant,30,Black,Non-Hispanic ,11429,Not on file,,6/8/2020,,Not Detected,,
+611,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,,11419,Metroplus McD,,6/6/2020,,Not Detected,,
+612,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/07/2020 0931,6/7/2020,Emergency,Female,Pregnant,39,Other,Unknown ,11356,Not on file,,6/8/2020,,Not Detected,,
+613,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/07/2020 1115,6/8/2020,Obstetrics,Female,Pregnant,41,Black,Non-Hispanic ,11433,Not on file,36w6d,6/9/2020,,Not Detected,,
+614,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,27,Other,Non-Hispanic ,11433,Not on file,,6/4/2020,,Negative,,
+615,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/08/2020 1926,6/9/2020,Emergency,Female,Pregnant,19,White,,11433,Not on file,,6/10/2020,,Not Detected,,
+616,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/10/2020 0633,6/10/2020,Obstetrics,Female,Pregnant,33,Other,Non-Hispanic ,11420,Not on file,24w0d,6/11/2020,,Not Detected,,
+617,QUEENS HOSPITAL CENTER,QU ED PSYCH , 06/11/2020 1139,6/13/2020,Extended Observation,Female,Pregnant,22,Other,,11435,Not on file,26w1d,6/11/2020,,Negative,,
+618,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/14/2020 0310,6/17/2020,Obstetrics,Female,Pregnant,30,Other,Non-Hispanic ,11423,Not on file,,6/14/2020,,Not Detected,,
+619,QUEENS HOSPITAL CENTER,QU BLEECKER , ,,Primary Care,Female,Pregnant,28,Other,,11421,Not on file,,6/10/2020,,NOT DETECTED,,
+620,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Other,Non-Hispanic ,11436,Healthfirst McD,,6/7/2020,,Not Detected,,
+621,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 04/14/2020 1354,4/14/2020,Obstetrics,Female,Pregnant,39,Other,Non-Hispanic ,11435,Not on file,,6/12/2020,,Not Detected,,
+622,SY DYCKMAN LCDLA,SY DYCKMAN CDLA , ,,Primary Care,Female,Pregnant,33,Other,Ecuadorian ,11368,Healthfirst McD,26w5d,6/11/2020,,Not Detected,,
+623,WOODHULL MEDICAL CENTER,WO EMP OCC HLTH SVCS , ,,Employee Occupational Health,Female,Pregnant,35,Other,,11435,Not on file,8w5d,6/9/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+624,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 06/04/2020 0739,6/4/2020,Ambulatory Surgery,Female,Pregnant,43,Black,Non-Hispanic ,11206,Not on file,23w4d,6/4/2020,,Negative,,
+625,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,Non-Hispanic ,11206,Healthfirst McD,21w0d,6/3/2020,,Negative,,
+626,WOODHULL MEDICAL CENTER,WO ED PEDIATRIC , 06/03/2020 1103,6/7/2020,Pediatrics,Female,Pregnant,14,Unknown,Unknown ,11233,Empire Bcbs Healthplus McD,,6/7/2020,,Not Detected,,
+627,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Non-Hispanic ,10469,Unitedhealthcare McR,,6/7/2020,,Not Detected,,
+628,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Black,Non-Hispanic ,11206,Healthfirst McD,22w3d,6/8/2020,,Negative,,
+629,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,48,Other,,11207,Emergency Medicaid,12w1d,6/4/2020,,Not Detected,,
+630,WOODHULL MEDICAL CENTER,WO ED ADULT , 06/13/2020 1204,6/15/2020,Obstetrics,Female,Pregnant,22,Black,Non-Hispanic ,11238,Healthfirst McD,22w0d,6/14/2020,,Not Detected,,
+631,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other,,11221,Emergency Medicaid,,6/8/2020,,Negative,,
+632,WOODHULL MEDICAL CENTER,WO ED PSYCH , 06/03/2020 1352,6/8/2020,Adult Psych,Female,Pregnant,29,Other,,11237,Not on file,37w1d,6/3/2020,,Negative,,
+633,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Declined,Ecuadorian ,11417,Healthfirst McD,,6/24/2020,,Not Detected,,
+634,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other Pacific Islander,,11232,Metroplus McD,,6/24/2020,,Not Detected,,
+635,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,,11221,,,6/17/2020,,Negative,,
+636,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,7522,Healthfirst McD,,6/17/2020,,Not Detected,,
+637,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Unknown,Puerto Rican ,10029,Fidelis Care McD,,6/30/2020,Abnormal,Invalid,,
+638,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 06/19/2020 1152,6/19/2020,Surgery,Female,Pregnant,35,Black,,10306,Emergency Medicaid,24w5d,6/19/2020,,Negative,,
+639,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,"Unknown
+Other
+American Indian or Alaskan",,11413,Metroplus Comm,,6/23/2020,,Not Detected,,
+640,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 06/22/2020 1241,6/23/2020,Obstetrics,Female,Pregnant,30,Black,Unknown ,11420,Not on file,,6/22/2020,,Negative,,
+641,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 06/27/2020 2313,6/28/2020,Gynecology,Female,Pregnant,31,,,11385,Not on file,28w0d,6/28/2020,,Negative,,
+642,BELLEVUE HOSPITAL CENTER,BE ED PSYCH ADULT , 06/28/2020 0311,7/16/2020,Adult Psych,Female,Pregnant,39,Other,Non-Hispanic ,10027,Healthfirst McD,,6/28/2020,,Not Detected,,
+643,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,,10452,Metroplus Comm,,6/30/2020,,Not Detected,,
+644,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,20,Other,Mexican/Mexican American ,11368,Metroplus McD,22w4d,6/24/2020,,Not Detected,,
+645,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,American Indian or Alaskan,Declined ,10454,New York Medicaid,,6/21/2020,,Not Detected,,
+646,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,,Female,Pregnant,31,Other,Non-Hispanic ,10455,Unitedhealthcare McD,28w3d,6/16/2020,,Not Detected,,
+647,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,,10455,New York Medicaid,34w0d,6/30/2020,,Not Detected,,
+648,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 06/18/2020 1043,6/21/2020,Gynecology,Female,Pregnant,20,White,,11223,Not on file,,6/18/2020,,Negative,,
+649,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 06/22/2020 2016,6/24/2020,Obstetrics,Female,Pregnant,38,Black,Unknown ,11224,Not on file,34w6d,6/23/2020,,Negative,,
+650,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 06/23/2020 2025,6/26/2020,Obstetrics,Female,Pregnant,31,White,,11235,Not on file,45w6d,6/23/2020,,Negative,,
+651,CONEY ISLAND HOSPITAL CENTER,CI FORT HAMILTON TC , ,,Primary Care,Female,Pregnant,27,Black,,10002,Unitedhealthcare McD,,6/16/2020,,NOT DETECTED,,
+652,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 06/26/2020 1655,6/28/2020,Medicine,Female,Pregnant,29,Black,Unknown ,11224,Fidelis Care McD,,6/27/2020,,Not Detected,,
+653,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,White,,11229,Metroplus McD,,6/30/2020,,Not Detected,,
+654,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 06/29/2020 1700,7/1/2020,Obstetrics,Female,Pregnant,24,Asian,,11230,Not on file,35w4d,6/30/2020,,Negative,,
+655,CU VANDERBILT,CU VANBLT PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Black,Non-Hispanic ,10469,,31w2d,6/16/2020,,Not Detected,,
+656,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,30,White,,11368,Fidelis Care McD,27w1d,6/18/2020,,Not Detected,,
+657,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,22,Other,Dominican ,11372,Empire Bcbs Healthplus McD,,6/16/2020,,Not Detected,,
+658,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,20,Black,Non-Hispanic ,11102,Not on file,47w5d,6/27/2020,,Not Detected,,
+659,ELMHURST HOSPITAL CENTER,EL OB ULTRASOUND , 06/16/2020 1120,,Radiology Referred,Female,Pregnant,31,Other,Mexican/Mexican American ,11369,Not on file,49w4d,6/17/2020,,Not Detected,,
+660,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/15/2020 1611,6/15/2020,Emergency,Female,Pregnant,32,Asian,,11372,Not on file,,6/16/2020,,Not Detected,,
+661,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/17/2020 1836,6/18/2020,Emergency,Female,Pregnant,30,Other,Ecuadorian ,11377,Not on file,14w0d,6/17/2020,,Negative,,
+662,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/16/2020 2006,6/17/2020,Emergency,Female,Pregnant,21,Black,Non-Hispanic ,10454,,,6/17/2020,,Not Detected,,
+663,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/18/2020 1135,7/2/2020,Obstetrics,Female,Pregnant,27,Asian,Non-Hispanic ,11370,Not on file,36w2d,6/18/2020,,Negative,,
+664,ELMHURST HOSPITAL CENTER,EL NST WOMENS HEALTH , ,,Obstetrics High Risk,Female,Pregnant,35,Other,Ecuadorian ,11368,Metroplus McD,46w3d,6/27/2020,,Not Detected,,
+665,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics,Female,Pregnant,35,White,Unknown ,11221,Not on file,,6/25/2020,,Not Detected,,
+666,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/18/2020 1408,6/25/2020,Obstetrics,Female,Pregnant,41,Other,,11368,Not on file,34w5d,6/18/2020,,Negative,,
+667,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,51,Other,Puerto Rican ,11370,Emblemhealth Comm,,6/16/2020,,NOT DETECTED,,
+668,ELMHURST HOSPITAL CENTER,EL BEACH 39TH TC , ,,Primary Care,Female,Pregnant,34,Other,Dominican ,11691,Not on file,,6/27/2020,,NOT DETECTED,,
+669,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,34,Other,Ecuadorian ,11105,Metroplus McD,18w3d,6/23/2020,,Not Detected,,
+670,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,35,Other,,11369,Not on file,27w1d,6/16/2020,,NOT DETECTED,,
+671,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,33,Other,Ecuadorian ,11377,Not on file,45w3d,6/21/2020,,NOT DETECTED,,
+672,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/22/2020 2311,6/23/2020,Obstetrics,Female,Pregnant,34,"Other
+Other",,11417,Not on file,34w4d,6/23/2020,Abnormal,Invalid,,
+673,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,20,Other,Mexican/Mexican American ,11368,Metroplus McD,7w0d,6/20/2020,Abnormal,INCONCLUSIVE,,
+674,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/25/2020 0115,6/28/2020,Obstetrics,Female,Pregnant,25,Other,Mexican/Mexican American ,11373,Healthfirst McD,37w4d,6/25/2020,,Negative,,
+675,ELMHURST HOSPITAL CENTER,EL PCC DEPARTMENT , ,,Pre Admission Testing,Female,Pregnant,44,Other,Peruvian ,11368,Healthfirst McD,,6/25/2020,,Not Detected,,
+676,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/25/2020 1531,6/25/2020,Emergency,Female,Pregnant,42,Other,Bangladeshi ,11372,Not on file,21w0d,6/25/2020,,Negative,,
+677,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/25/2020 2052,6/25/2020,Emergency,Female,Pregnant,28,Other,Other Hispanic ,11373,Not on file,,6/26/2020,,Negative,,
+678,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/27/2020 0040,6/28/2020,Obstetrics,Female,Pregnant,29,"Other
+Unknown",,11370,Not on file,,6/27/2020,,Negative,,
+679,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,24,Other,Mexican/Mexican American ,11378,Not on file,18w5d,6/30/2020,,Not Detected,,
+680,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/30/2020 1145,7/2/2020,Obstetrics,Female,Pregnant,36,Other,Mexican/Mexican American ,11421,Not on file,38w0d,6/30/2020,,Negative,,
+681,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,32,Other,,11368,Not on file,34w4d,6/20/2020,,Not Detected,,
+682,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,20,Other,,11377,Metroplus McD,35w6d,6/25/2020,,Not Detected,,
+683,ELMHURST HOSPITAL CENTER,EL PCC DEPARTMENT , ,,Pre Admission Testing,Female,Pregnant,41,Unknown,Ecuadorian ,11368,Not on file,24w5d,6/23/2020,,Not Detected,,
+684,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 06/29/2020 1314,7/2/2020,Obstetrics,Female,Pregnant,35,Other,,11368,Not on file,31w0d,6/29/2020,,Negative,,
+685,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,Unknown ,11212,Metroplus McD,21w0d,6/28/2020,,Not Detected,,
+686,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,Non-Hispanic ,11207,Healthfirst McD,29w0d,6/25/2020,,Not Detected,,
+687,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,46,Other,Unknown ,10002,Metroplus McD,,6/30/2020,,Not Detected,,
+688,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other,Unknown ,11206,Metroplus McD,29w1d,6/30/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+689,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/15/2020 0420,6/17/2020,Obstetrics,Female,Pregnant,25,Black,Non-Hispanic ,11212,Not on file,39w5d,6/15/2020,,Negative,,
+690,HARLEM HOSPITAL CENTER,HA ED ADULT , 06/18/2020 2133,6/20/2020,Surgery,Female,Pregnant,34,Black,Non-Hispanic ,10037,Emblemhealth McD,,6/18/2020,,Negative,,
+691,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,,10031,Healthfirst McD,,6/15/2020,,Negative,,
+692,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/26/2020 0713,6/27/2020,Obstetrics,Female,Pregnant,24,Black,Non-Hispanic ,10029,Healthfirst McD,27w2d,6/26/2020,,Negative,,
+693,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,"Black
+Unknown",Non-Hispanic ,10037,Metroplus McD,,6/27/2020,,Not Detected,,
+694,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/26/2020 0608,6/26/2020,Obstetrics,Female,Pregnant,22,Black,Dominican ,10030,Not on file,,6/26/2020,,Negative,,
+695,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/24/2020 1805,6/25/2020,Obstetrics,Female,Pregnant,38,Other,,10031,Healthfirst Comm,13w5d,6/24/2020,,Negative,,
+696,HARLEM HOSPITAL CENTER,HA WOMENS HEALTH SRVCS , ,,Gynecology,Female,Pregnant,42,Black,Non-Hispanic ,10459,Fidelis Care McD,18w2d,6/29/2020,,Negative,,
+697,HARLEM HOSPITAL CENTER,HA IPP 10MH , 06/17/2020 0453,7/1/2020,Adult Psych,Female,Pregnant,26,"Black
+Unknown",,10003,Fidelis Care McD,,6/27/2020,,Negative,,
+698,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/26/2020 1123,6/28/2020,Obstetrics,Female,Pregnant,36,Other,Non-Hispanic ,10027,Not on file,39w4d,6/26/2020,,Negative,,
+699,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 06/29/2020 0203,6/29/2020,Emergency,Female,Pregnant,35,Black,Non-Hispanic ,10027,Not on file,13w5d,6/29/2020,,Negative,,
+700,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,,Female,Pregnant,32,Other,Puerto Rican ,10460,Metroplus McD,22w0d,6/20/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+701,JACOBI MEDICAL CENTER,JA BRONXWOOD PREP TC , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,10467,Not on file,,6/15/2020,,NOT DETECTED,,
+702,JACOBI MEDICAL CENTER,JA ED ADULT , 06/15/2020 1237,6/16/2020,Surgery,Female,Pregnant,22,Other,,10467,Not on file,13w4d,6/16/2020,,Negative,,
+703,JACOBI MEDICAL CENTER,JA EDWARD GRANT TC , ,,Primary Care,Female,Pregnant,15,Other,,10452,Not on file,,6/18/2020,,NOT DETECTED,,
+704,JACOBI MEDICAL CENTER,JA BRONXWOOD PREP TC , ,,Primary Care,Female,Pregnant,25,Other,Non-Hispanic ,10460,Not on file,,6/24/2020,,NOT DETECTED,,
+705,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 06/21/2020 0858,6/23/2020,Obstetrics,Female,Pregnant,21,Other,,10475,Not on file,31w1d,6/22/2020,,Negative,,
+706,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,26,Other,,10458,Unitedhealthcare McD,,6/27/2020,,Not Detected,,
+707,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,Ecuadorian ,10469,Healthfirst McD,11w5d,6/19/2020,,Not Detected,,
+708,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,White,,10461,Medicaid Hmo Misc,23w3d,6/19/2020,,Not Detected,,
+709,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 06/29/2020 1637,6/29/2020,Obstetrics,Female,Pregnant,24,Other,,10462,Healthfirst McD,35w1d,6/30/2020,,Not Detected,,
+710,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 06/23/2020 0748,6/23/2020,Emergency,Female,Pregnant,18,Black,Non-Hispanic ,10473,New York Medicaid,40w0d,6/23/2020,,Negative,,
+711,JACOBI MEDICAL CENTER,JA ED ADULT , 06/28/2020 2220,,Obstetrics,Female,Pregnant,29,White,Other Hispanic ,10469,Not on file,16w2d,6/29/2020,,Negative,,
+712,KINGS COUNTY HOSPITAL CENTER,KC WOMENS OPTIONS , ,,WHS Women’s Options,Female,Pregnant,34,Black,Non-Hispanic ,11233,Healthfirst McD,29w0d,6/17/2020,,Negative,,
+713,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,Other,Peruvian ,11212,Metroplus McD,30w4d,6/20/2020,,Not Detected,,
+714,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Black,Non-Hispanic ,11226,Not on file,,6/16/2020,,Not Detected,,
+715,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,Non-Hispanic ,11203,Not on file,35w0d,6/25/2020,,Not Detected,,
+716,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 06/16/2020 2025,6/18/2020,Obstetrics,Female,Pregnant,25,Black,Non-Hispanic ,11226,Healthfirst McD,37w4d,6/17/2020,,Negative,,
+717,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Unknown,Non-Hispanic ,11203,Healthfirst McD,32w4d,6/18/2020,,Not Detected,,
+718,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 06/20/2020 0232,6/22/2020,Obstetrics,Female,Pregnant,25,Black,Non-Hispanic ,11208,Not on file,47w2d,6/20/2020,,Negative,,
+719,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,11226,Empire Bcbs Comm,,6/23/2020,,Not Detected,,
+720,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 06/24/2020 0411,6/26/2020,OBS/GYN PERI,Female,Pregnant,31,Other,Mexican/Mexican American ,11226,Not on file,35w0d,6/24/2020,,Negative,,
+721,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Black,Non-Hispanic ,11233,New York Medicaid,26w0d,6/25/2020,,Not Detected,,
+722,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,White,Non-Hispanic ,11207,Healthfirst McD,37w1d,6/26/2020,,Not Detected,,
+723,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 06/25/2020 1259,6/26/2020,Emergency,Female,Pregnant,44,Black,Non-Hispanic ,11207,Metroplus McD,18w2d,6/25/2020,,Negative,,
+724,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,11203,New York Medicaid,,6/26/2020,,Not Detected,,
+725,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,14,Other,,11210,Not on file,32w0d,6/30/2020,,Not Detected,,
+726,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 06/22/2020 1755,6/25/2020,Gynecology,Female,Pregnant,28,Black,Unknown ,11208,Not on file,,6/23/2020,,Not Detected,,
+727,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,,10304,Metroplus McD,35w5d,6/19/2020,,Not Detected,,
+728,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,50,Black,,11234,Fidelis Care McD,35w1d,6/16/2020,,Not Detected,,
+729,LINCOLN MEDICAL CENTER,LI ED ADULT , 06/17/2020 2156,6/17/2020,Emergency,Female,Pregnant,27,Other,Guatemalan ,10472,Not on file,,6/18/2020,,Not Detected,,
+730,LINCOLN MEDICAL CENTER,LI PROCEDURE ROOM WH 7D , 06/17/2020 0813,6/17/2020,Surgery,Female,Pregnant,11,Other,Unknown ,10472,Not on file,,6/17/2020,,Negative,,
+731,LINCOLN MEDICAL CENTER,LI ST JAMES REC CTR TC , ,,Primary Care,Female,Pregnant,26,Other,,10460,Not on file,,6/29/2020,,NOT DETECTED,,
+732,LINCOLN MEDICAL CENTER,LI ED ADULT , 06/17/2020 2209,6/19/2020,Obstetrics,Female,Pregnant,25,Other,,10452,Not on file,22w1d,6/18/2020,,Not Detected,,
+733,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,19,Other,,10457,Healthfirst McD,31w6d,6/21/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+734,LINCOLN MEDICAL CENTER,LI ED ADULT , 06/22/2020 1807,6/23/2020,Amb Surgery,Female,Pregnant,20,Other,,10454,Not on file,15w6d,6/22/2020,,Negative,,
+735,LINCOLN MEDICAL CENTER,LI PROCEDURE ROOM WH 7D , 06/22/2020 1157,6/22/2020,Surgery,Female,Pregnant,33,Black,Non-Hispanic ,10456,Healthfirst McD,20w3d,6/22/2020,,Negative,,
+736,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Family Planning,Female,Pregnant,33,Other,,10465,,,6/23/2020,,Not Detected,,
+737,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Unknown,,10472,Metroplus McD,19w2d,6/25/2020,,Not Detected,,
+738,LINCOLN MEDICAL CENTER,LI ED PEDIATRIC , 06/27/2020 1851,6/27/2020,Emergency,Female,Pregnant,18,Black,,10459,Not on file,15w4d,6/27/2020,,Negative,,
+739,LINCOLN MEDICAL CENTER,LI ED ADULT , 06/28/2020 0703,7/1/2020,Surgery,Female,Pregnant,19,Other,,10456,Not on file,30w5d,6/28/2020,,Negative,,
+740,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 06/30/2020 1229,6/30/2020,Obstetrics,Female,Pregnant,39,Other,,10458,Unitedhealthcare Comm,29w1d,6/30/2020,,Negative,,
+741,LINCOLN MEDICAL CENTER,LI ST JAMES REC CTR TC , ,,Primary Care,Female,Pregnant,35,Other,,10453,Not on file,30w3d,6/20/2020,,NOT DETECTED,,
+742,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Unknown,,10029,New York Medicaid,40w4d,6/27/2020,,Not Detected,,
+743,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 06/14/2020 1935,6/19/2020,Obstetrics,Female,Pregnant,42,Other,Declined ,10027,Metroplus McD,40w3d,6/15/2020,,Negative,,
+744,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 06/15/2020 1642,6/16/2020,Observation,Female,Pregnant,20,Other,,10030,Not on file,,6/16/2020,,Negative,,
+745,METROPOLITAN HOSPITAL CENTER,ME FAMILY MEDICINE CLINIC , ,,Anatomic Pathology,Female,Pregnant,32,White,,11232,Empire Bcbs Comm,,6/15/2020,,Negative,,
+746,METROPOLITAN HOSPITAL CENTER,ME EAST 111TH TC , ,,Primary Care,Female,Pregnant,35,Black,Non-Hispanic ,10029,Metroplus McD,20w1d,6/27/2020,,NOT DETECTED,,
+747,METROPOLITAN HOSPITAL CENTER,ME FAMILY MEDICINE CLINIC , ,,Primary Care,Female,Pregnant,32,Black,Non-Hispanic ,10026,Metroplus Comm,,6/24/2020,,Negative,,
+748,METROPOLITAN HOSPITAL CENTER,ME EAST 111TH TC , ,,Primary Care,Female,Pregnant,32,Other,Puerto Rican ,10454,Healthfirst McD,38w6d,6/21/2020,,NOT DETECTED,,
+749,METROPOLITAN HOSPITAL CENTER,ME EAST 111TH TC , ,,Primary Care,Female,Pregnant,32,Other,Venezuelan ,10029,Not on file,34w1d,6/21/2020,,NOT DETECTED,,
+750,METROPOLITAN HOSPITAL CENTER,ME EAST 111TH TC , ,,Primary Care,Female,Pregnant,44,Other,Declined ,10029,Emblemhealth McD,26w0d,6/15/2020,,NOT DETECTED,,
+751,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Non-Hispanic ,10456,Healthfirst McD,27w5d,6/26/2020,,Not Detected,,
+752,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,,Female,Pregnant,41,Other,Unknown ,10465,,,6/22/2020,,Not Detected,,
+753,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Other,,10452,Empire Bcbs Healthplus McD,10w5d,6/18/2020,,,,
+754,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,,10460,Emergency Medicaid,,6/18/2020,,"See Report
+Not Detected",,
+755,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,10453,Healthfirst McD,,6/23/2020,,"See Report
+Not Detected",,
+756,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,"Other
+White",Ecuadorian ,10452,Healthfirst McD,13w6d,6/26/2020,,Not Detected,,
+757,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Unknown,,10456,Healthfirst McD,27w4d,6/27/2020,,Not Detected,,
+758,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,Other Hispanic ,10468,Metroplus McD,33w2d,6/25/2020,,Not Detected,,
+759,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,"Other
+Black",Dominican ,11520,Healthfirst McD,,6/16/2020,,Not Detected,,
+760,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,16,Other,,10706,Not on file,29w2d,6/18/2020,,Negative,,
+761,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,31,Unknown,Unknown ,10456,New York Medicaid,29w2d,6/30/2020,,Negative,,
+762,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Black,Non-Hispanic ,10469,Metroplus McD,17w3d,6/21/2020,,Not Detected,,
+763,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 06/21/2020 2159,6/23/2020,Obstetrics,Female,Pregnant,22,Other,Other Hispanic ,10458,Metroplus McD,45w4d,6/22/2020,,Negative,,
+764,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,25,Other,,10461,Not on file,28w4d,6/18/2020,,Negative,,
+765,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,31,Black,,10460,Not on file,23w4d,6/18/2020,,Negative,,
+766,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Gynecology,Female,Pregnant,36,Other,,10467,Fidelis Care McD,,6/18/2020,,Negative,,
+767,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 06/22/2020 0814,6/22/2020,Obstetrics,Female,Pregnant,25,Other,,10468,Not on file,48w0d,6/22/2020,,Negative,,
+768,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 06/22/2020 1113,6/22/2020,Emergency,Female,Pregnant,27,Other,,10467,Not on file,15w0d,6/23/2020,,Not Detected,,
+769,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 06/16/2020 2011,6/19/2020,Obstetrics,Female,Pregnant,22,Black,Unknown ,10467,Metroplus McD,47w2d,6/17/2020,Abnormal,Positive,COVID-19 (confirmed),
+770,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/14/2020 1634,6/15/2020,Obstetrics,Female,Pregnant,20,Black,,30019,Not on file,33w4d,6/15/2020,,Not Detected,,
+771,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/16/2020 1155,6/18/2020,Medicine,Female,Pregnant,30,Black,,11434,Not on file,21w5d,6/16/2020,Abnormal,Positive,COVID-19 (confirmed),
+772,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Asian,,11419,Metroplus McD,,6/18/2020,,Not Detected,,
+773,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/25/2020 0924,6/25/2020,Emergency,Female,Pregnant,35,Other,Non-Hispanic ,11419,Not on file,,6/26/2020,,Not Detected,,
+774,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/22/2020 0130,6/23/2020,Obstetrics,Female,Pregnant,26,Other,,11435,Not on file,35w0d,6/22/2020,,Not Detected,,
+775,QUEENS HOSPITAL CENTER,QU ED ADULT , 06/22/2020 2013,6/23/2020,Emergency,Female,Pregnant,41,Asian,,11423,Not on file,,6/23/2020,,Negative,,
+776,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/23/2020 2013,6/24/2020,Obstetrics,Female,Pregnant,25,Black,Non-Hispanic ,11421,Not on file,35w4d,6/24/2020,,Negative,,
+777,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,39,Asian,Non-Hispanic ,11367,Not on file,3w0d,6/24/2020,,Negative,,
+778,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/24/2020 2116,6/26/2020,Obstetrics,Female,Pregnant,32,Black,,11434,Not on file,40w2d,6/25/2020,,Not Detected,,
+779,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 06/25/2020 0957,6/26/2020,Gynecology,Female,Pregnant,33,Black,Non-Hispanic ,11434,Not on file,29w4d,6/25/2020,,Negative,,
+780,QUEENS HOSPITAL CENTER,QU BLEECKER , ,,Primary Care,Female,Pregnant,30,Other,Unknown ,11385,Not on file,,6/16/2020,,NOT DETECTED,,
+781,SYDENHAM HEALTH CENTER,SY HIGHBRIDGE POOL , ,,Primary Care,Female,Pregnant,27,Other,,10009,Not on file,49w6d,6/20/2020,,NOT DETECTED,,
+782,SYDENHAM HEALTH CENTER,SY HIGHBRIDGE POOL , ,,Primary Care,Female,Pregnant,41,Other,Declined ,10032,Not on file,,6/23/2020,,NOT DETECTED,,
+783,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 06/25/2020 1709,6/26/2020,Obstetrics,Female,Pregnant,20,Other,,11211,Not on file,34w6d,6/26/2020,,Negative,,
+784,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 06/15/2020 0928,6/15/2020,Obstetrics,Female,Pregnant,28,Other,,11206,Not on file,32w4d,6/15/2020,,Negative,,
+785,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,,11414,Metroplus McD,17w2d,6/15/2020,,Negative,,
+786,WOODHULL MEDICAL CENTER,WO ED ADULT , 06/22/2020 0511,6/25/2020,Gynecology,Female,Pregnant,35,Black,Non-Hispanic ,11221,Not on file,26w1d,6/22/2020,,Negative,,
+787,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 06/25/2020 0814,6/27/2020,Obstetrics,Female,Pregnant,17,Other,,11211,Not on file,29w0d,6/25/2020,,Negative,,
+788,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 06/27/2020 1702,7/2/2020,Obstetrics,Female,Pregnant,29,Other,,11206,Metroplus McD,39w3d,6/27/2020,,Negative,,
+789,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,White,,10306,Empire Bcbs Healthplus McD,,7/1/2020,,Not Detected,,
+790,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Black,Non-Hispanic ,10030,Healthfirst Comm,,7/7/2020,,Not Detected,,
+791,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Black,Non-Hispanic ,10026,Empire Bcbs Comm,19w6d,7/7/2020,,Not Detected,,
+792,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 07/07/2020 0258,7/7/2020,Gynecology,Female,Pregnant,27,Black,,11233,Not on file,,7/7/2020,,Negative,,
+793,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,,11418,Healthfirst McD,,7/8/2020,,Not Detected,,
+794,BELLEVUE HOSPITAL CENTER,BE ED PEDIATRIC , 07/09/2020 1028,7/9/2020,Emergency,Female,Pregnant,20,Other,Unknown ,11372,Not on file,,7/9/2020,,Negative,,
+795,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,,11355,,,7/8/2020,,Not Detected,,
+796,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 07/10/2020 1901,7/11/2020,Gynecology,Female,Pregnant,40,Black,,11226,Not on file,22w3d,7/10/2020,,Negative,,
+797,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,43,Other,,10009,Healthfirst McD,11w0d,7/2/2020,,Not Detected,,
+798,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 07/11/2020 0417,7/11/2020,Gynecology,Female,Pregnant,36,White,Non-Hispanic ,10003,Not on file,,7/11/2020,,Negative,,
+799,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Other,Non-Hispanic ,11103,Metroplus McD,,7/10/2020,,Not Detected,,
+800,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 07/12/2020 1628,7/12/2020,Emergency,Female,Pregnant,27,Other,Non-Hispanic ,11106,Metroplus McD,35w0d,7/13/2020,Abnormal,Positive for 2019-nCoV,,
+801,BELLEVUE HOSPITAL CENTER,BE ED PEDIATRIC , 07/13/2020 0640,7/13/2020,Gynecology,Female,Pregnant,20,Other,,11369,Not on file,,7/13/2020,,Negative,,
+802,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Asian,,11204,Healthfirst McD,,7/14/2020,,Not Detected,,
+803,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,Non-Hispanic ,11368,Metroplus Comm,19w5d,7/15/2020,,Not Detected,,
+804,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 07/13/2020 1733,7/14/2020,Obstetrics,Female,Pregnant,14,,,10457,Not on file,,7/14/2020,,Not Detected,,
+805,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Black,,11691,Healthfirst McD,,7/15/2020,,Not Detected,,
+806,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,50,Other,Spaniard ,11237,Emergency Medicaid,,7/3/2020,,Not Detected,,
+807,BELLEVUE HOSPITAL CENTER,BE 196 ALBANY TC , ,,Primary Care,Female,Pregnant,31,Black,Non-Hispanic ,11221,Metroplus McD,22w0d,7/14/2020,,NOT DETECTED,,
+808,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,"Other
+Declined",,11368,Metroplus McD,25w3d,7/11/2020,,Not Detected,,
+809,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Unknown,,10454,Affinity Health Plan Comm,,7/9/2020,,Not Detected,,
+810,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Other,,10457,Healthfirst McD,,7/10/2020,,Not Detected,,
+811,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Other,,10459,Empire Bcbs Comm,32w1d,7/2/2020,,Not Detected,,
+812,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,Other Pacific Islander,,10454,Healthfirst McD,21w2d,7/7/2020,,Not Detected,,
+813,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,31,Black,Non-Hispanic ,11224,Not on file,28w0d,7/2/2020,,Not Detected,,
+814,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,Other Hispanic ,11224,Unitedhealthcare McD,13w4d,7/2/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+815,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 06/30/2020 1348,7/3/2020,Gynecology,Female,Pregnant,33,White,Unknown ,11234,,14w1d,7/1/2020,,Not Detected,,
+816,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/01/2020 1720,7/1/2020,OB ED,Female,Pregnant,27,Other,,11229,Not on file,29w5d,7/1/2020,,Negative,,
+817,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,Other Hispanic ,11210,Healthfirst McD,16w3d,7/11/2020,,Not Detected,,
+818,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/13/2020 0401,7/14/2020,Obstetrics,Female,Pregnant,40,Other,Mexican/Mexican American ,11230,Metroplus McD,31w5d,7/13/2020,Abnormal,Positive,COVID-19 (confirmed),
+819,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Asian,Unknown ,11235,Unitedhealthcare Comm,,7/15/2020,,Not Detected,,
+820,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/13/2020 1019,7/14/2020,Obstetrics,Female,Pregnant,41,Black,,11214,Not on file,25w1d,7/13/2020,,Negative,,
+821,CU JONATHAN WILLIAMS CHILD HEALTH,CU JONATHAN WILLIAMS , ,,Primary Care,Female,Pregnant,36,Other,,11221,,11w4d,7/4/2020,,Not Detected,,
+822,CU JONATHAN WILLIAMS CHILD HEALTH,CU JONATHAN WILLIAMS , ,,Primary Care,Female,Pregnant,35,Other,,11249,Not on file,34w2d,7/8/2020,,Not Detected,,
+823,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,35,Other,,11377,Healthfirst Comm,22w1d,7/12/2020,,Not Detected,,
+824,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,18,Black,,11206,Healthfirst McD,42w6d,7/7/2020,,Not Detected,,
+825,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,36,Asian,,11377,Not on file,30w0d,7/9/2020,,Not Detected,,
+826,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,32,Other,Mexican/Mexican American ,11368,Not on file,38w0d,7/10/2020,,Not Detected,,
+827,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,28,Other,Non-Hispanic ,11377,Not on file,,7/10/2020,,Negative,,
+828,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,47,Other,Non-Hispanic ,11357,Not on file,,7/1/2020,,NOT DETECTED,,
+829,ELMHURST HOSPITAL CENTER,EL GYN SURGERY , ,,GYN Surgery,Female,Pregnant,28,Other,,11368,Not on file,,7/2/2020,,Not Detected,,
+830,ELMHURST HOSPITAL CENTER,EL ED ADULT , 06/30/2020 2305,7/3/2020,Obstetrics,Female,Pregnant,27,Other,Ecuadorian ,11368,Not on file,,7/1/2020,,Negative,,
+831,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/06/2020 0859,7/6/2020,Obstetrics,Female,Pregnant,35,Asian,Bangladeshi ,11377,Not on file,39w0d,7/6/2020,,Negative,,
+832,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,29,Other,Guatemalan ,11373,Not on file,45w3d,7/7/2020,,Not Detected,,
+833,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,38,Other,,11368,Not on file,,7/6/2020,,NOT DETECTED,,
+834,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/05/2020 0005,7/6/2020,Obstetrics,Female,Pregnant,32,Other,Ecuadorian ,11373,Not on file,37w6d,7/5/2020,,Negative,,
+835,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/05/2020 1502,7/9/2020,Obstetrics,Female,Pregnant,27,Other,Honduran ,11368,Not on file,26w1d,7/6/2020,,Not Detected,,
+836,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/07/2020 1145,7/7/2020,Ambulatory Surgery,Female,Pregnant,30,Other,Other Hispanic ,11435,Not on file,,7/7/2020,,Negative,,
+837,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/07/2020 1951,7/9/2020,Obstetrics,Female,Pregnant,31,Unknown,Unknown ,11369,Not on file,34w3d,7/8/2020,,Not Detected,,
+838,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/10/2020 0742,7/10/2020,Obstetrics,Female,Pregnant,23,Asian,,11367,Not on file,45w3d,7/10/2020,,Negative,,
+839,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,37,Other,Mexican/Mexican American ,11377,Emergency Medicaid,,7/11/2020,,Negative,,
+840,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,"Other
+Other",,11102,Metroplus McD,35w5d,7/11/2020,,Not Detected,,
+841,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics Pre Natal,Female,Pregnant,33,Other,Ecuadorian ,11374,Not on file,38w4d,7/9/2020,,Not Detected,,
+842,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,47,Black,Non-Hispanic ,19904,Empire Bcbs Comm,155w0d,7/2/2020,,Not Detected,,
+843,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Black,Unknown ,11207,Metroplus McD,,7/14/2020,,Not Detected,,
+844,EY EAST NEW YORK DTC,EY VAN 3 TC , ,,Primary Care,Female,Pregnant,42,Black,Non-Hispanic ,11208,Metroplus McD,32w3d,7/8/2020,,Not Detected,,
+845,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Black,Non-Hispanic ,11233,,30w4d,7/15/2020,,Not Detected,,
+846,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,,11207,Metroplus McD,25w1d,7/12/2020,,Not Detected,,
+847,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 07/04/2020 0216,7/6/2020,Obstetrics,Female,Pregnant,25,Black,Declined ,10463,Not on file,43w1d,7/4/2020,,Negative,,
+848,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 07/09/2020 1156,7/9/2020,Obstetrics,Female,Pregnant,29,Black,Non-Hispanic ,10459,Metroplus McD,,7/9/2020,,Negative,,
+849,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 07/07/2020 1422,7/7/2020,Obstetrics,Female,Pregnant,24,Black,Non-Hispanic ,10039,New York Medicaid,34w2d,7/7/2020,,Negative,,
+850,HARLEM HOSPITAL CENTER,HA IP 4S LABOR & DLVRY , 07/14/2020 1135,7/15/2020,Obstetrics,Female,Pregnant,28,Black,,10030,Not on file,27w0d,7/14/2020,,Negative,,
+851,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Other,,10037,Fidelis Care McD,17w4d,7/1/2020,,Not Detected,,
+852,HC HENRY J CARTER LTAC,HC EMP OCC HLTH SVCS , ,,Primary Care,Female,Pregnant,26,Asian,Filipino ,11377,,,7/2/2020,,Not Detected,,
+853,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,18,Black,Non-Hispanic ,10472,New York Medicaid,49w5d,7/9/2020,,Not Detected,,
+854,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,27,Other,,10456,Healthfirst McD,28w5d,7/10/2020,,Not Detected,,
+855,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/01/2020 1025,7/1/2020,Obstetrics,Female,Pregnant,42,Declined,Non-Hispanic ,10451,Not on file,37w0d,7/2/2020,,Not Detected,,
+856,JACOBI MEDICAL CENTER,JA ED ADULT , 06/30/2020 1649,7/4/2020,Medicine,Female,Pregnant,25,"Asian
+Unknown",Bangladeshi ,10462,Metroplus McD,18w0d,7/1/2020,,Negative,,
+857,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 06/30/2020 1935,6/30/2020,Obstetrics,Female,Pregnant,21,Black,Non-Hispanic ,10704,Not on file,35w6d,7/1/2020,,Not Detected,,
+858,JACOBI MEDICAL CENTER,JA ED ADULT , 07/01/2020 1218,7/9/2020,Medicine,Female,Pregnant,23,Other,,10456,Not on file,19w5d,7/1/2020,,Negative,,
+859,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,Asian,Non-Hispanic ,7024,,,7/9/2020,,Not Detected,,
+860,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/07/2020 1035,7/7/2020,Obstetrics,Female,Pregnant,26,Other,Puerto Rican ,10460,Healthfirst McD,34w4d,7/8/2020,,Not Detected,,
+861,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,"Unknown
+Other",,10460,Emergency Medicaid,9w0d,7/3/2020,,Not Detected,,
+862,JACOBI MEDICAL CENTER,JA ED ADULT , 07/03/2020 1214,7/5/2020,Medicine,Female,Pregnant,33,Black,Non-Hispanic ,11354,Healthfirst McD,15w0d,7/3/2020,,Negative,,
+863,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/13/2020 0629,7/14/2020,Obstetrics,Female,Pregnant,31,Black,Non-Hispanic ,10460,Not on file,37w6d,7/13/2020,,Negative,,
+864,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,Colombian ,10467,Healthfirst McD,23w4d,7/14/2020,,Not Detected,,
+865,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Black,Non-Hispanic ,10473,Affinity Health Plan McD,,7/15/2020,,Not Detected,,
+866,JACOBI MEDICAL CENTER,JA ED ADULT , 07/14/2020 1406,7/17/2020,Obstetrics,Female,Pregnant,33,Asian,Non-Hispanic ,10461,Not on file,16w1d,7/14/2020,Abnormal,Positive,COVID-19 (confirmed),
+867,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 07/15/2020 2137,7/16/2020,Emergency,Female,Pregnant,18,Other,,32839,Wellcare McR,,7/15/2020,,Negative,,
+868,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,White,Non-Hispanic ,10467,Metroplus McD,,7/11/2020,,Not Detected,,
+869,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,,Female,Pregnant,39,Other,Ecuadorian ,10472,Metroplus McD,35w4d,7/2/2020,,Not Detected,,
+870,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Black,Non-Hispanic ,11203,Metroplus McD,25w2d,7/10/2020,,Not Detected,,
+871,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/02/2020 0217,7/2/2020,Gynecology,Female,Pregnant,32,Black,Unknown ,11208,Not on file,21w2d,7/2/2020,,Negative,,
+872,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/02/2020 1052,7/7/2020,Obstetrics,Female,Pregnant,27,Black,Non-Hispanic ,11236,Not on file,30w5d,7/2/2020,,Negative,,
+873,KINGS COUNTY HOSPITAL CENTER,KC ED PSYCH , 07/02/2020 1322,7/8/2020,Adult Psych,Female,Pregnant,29,Black,,11216,Not on file,30w1d,7/3/2020,,Not Detected,,
+874,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Black,Non-Hispanic ,11236,New York Medicaid,14w3d,7/3/2020,,Not Detected,,
+875,KINGS COUNTY HOSPITAL CENTER,KC ED PEDIATRIC , 07/02/2020 1514,7/6/2020,Pediatrics,Female,Pregnant,15,Black,Non-Hispanic ,11224,Healthfirst McD,,7/4/2020,,Not Detected,,
+876,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/06/2020 2328,7/8/2020,Surgery,Female,Pregnant,22,Black,Non-Hispanic ,11226,Not on file,10w5d,7/7/2020,,Negative,,
+877,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/08/2020 0042,7/9/2020,Gynecology,Female,Pregnant,27,Other,Mexican/Mexican American ,11213,Not on file,15w2d,7/8/2020,,Not Detected,,
+878,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/09/2020 0146,7/9/2020,Emergency,Female,Pregnant,37,Black,,11203,Not on file,,7/9/2020,,Not Detected,,
+879,KINGS COUNTY HOSPITAL CENTER,KC ED PSYCH , 07/09/2020 0711,7/14/2020,Adult Psych,Female,Pregnant,28,Black,Unknown ,11207,Not on file,,7/9/2020,,Negative,,
+880,KINGS COUNTY HOSPITAL CENTER,KC ED PSYCH , 07/13/2020 2315,,Adult Psych,Female,Pregnant,35,Black,Non-Hispanic ,11216,Not on file,,7/14/2020,,Negative,,
+881,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,27,Black,,11213,New York Medicaid,,7/15/2020,,Not Detected,,
+882,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,27,Black,Non-Hispanic ,11226,New York Medicaid,33w6d,7/3/2020,,Not Detected,,
+883,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,,10451,Metroplus McD,,7/12/2020,,Not Detected,,
+884,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/10/2020 1220,7/12/2020,Obstetrics,Female,Pregnant,29,White,,10455,Not on file,28w3d,7/10/2020,,Negative,,
+885,LINCOLN MEDICAL CENTER,LI IP 5BOB MOTHER BABY , 07/03/2020 0335,7/5/2020,Obstetrics,Female,Pregnant,20,Other,Non-Hispanic ,10454,Not on file,17w6d,7/3/2020,,Negative,,
+886,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Unknown ,10460,,,7/15/2020,,Not Detected,,
+887,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/04/2020 0308,7/4/2020,Obstetrics,Female,Pregnant,32,"Black
+Unknown",Non-Hispanic ,10038,Emblemhealth McD,36w3d,7/4/2020,,Negative,,
+888,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Family Planning,Female,Pregnant,25,Other,,10459,Not on file,,7/7/2020,,Not Detected,,
+889,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Other,,10457,Metroplus McD,35w2d,7/9/2020,,Not Detected,,
+890,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Black,Non-Hispanic ,10451,Healthfirst McR,42w1d,7/11/2020,,Not Detected,,
+891,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/09/2020 1106,7/13/2020,Obstetrics,Female,Pregnant,41,Other,,10454,Not on file,40w4d,7/9/2020,,Negative,,
+892,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/10/2020 0614,7/12/2020,Obstetrics,Female,Pregnant,33,Black,Unknown ,10456,Metroplus McD,44w6d,7/10/2020,,Negative,,
+893,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/10/2020 1226,7/12/2020,Obstetrics,Female,Pregnant,33,Other,,10030,Not on file,38w0d,7/10/2020,,Negative,,
+894,LINCOLN MEDICAL CENTER,LI WOMEN HEALTH SRVCS , ,,Family Planning,Female,Pregnant,29,Other,,10459,Metroplus McD,23w0d,7/14/2020,,Not Detected,,
+895,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/13/2020 1022,7/14/2020,Obstetrics,Female,Pregnant,27,"Black
+Other",,10474,Not on file,40w1d,7/13/2020,Abnormal,Positive,,
+896,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/07/2020 1140,7/7/2020,Obstetrics,Female,Pregnant,32,Black,Non-Hispanic ,10030,Not on file,35w5d,7/7/2020,,Negative,,
+897,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/15/2020 0711,7/15/2020,Obstetrics,Female,Pregnant,37,Other,,10454,Not on file,19w0d,7/15/2020,,Negative,,
+898,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,,10029,Healthfirst Comm,30w3d,7/4/2020,,Not Detected,,
+899,METROPOLITAN HOSPITAL CENTER,ME EAST 111TH TC , ,,Primary Care,Female,Pregnant,42,"Other
+White",,10029,Not on file,,7/1/2020,,NOT DETECTED,,
+900,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 07/02/2020 1259,7/7/2020,Medicine,Female,Pregnant,38,Unknown,Mexican/Mexican American ,10029,Not on file,,7/4/2020,,Not Detected,,
+901,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,,10035,Not on file,,7/11/2020,,Not Detected,,
+902,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,,10128,Affinity Health Plan Comm,,7/9/2020,,Not Detected,,
+903,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/10/2020 1906,7/13/2020,Obstetrics,Female,Pregnant,27,Other,Unknown ,11385,Not on file,46w3d,7/10/2020,,Negative,,
+904,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,44,Other,,10029,Not on file,15w6d,7/15/2020,,Not Detected,,
+905,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,"Other
+Other",Declined ,10466,Metroplus McD,,7/2/2020,,Not Detected,,
+906,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,,10029,Not on file,17w2d,7/15/2020,,Not Detected,,
+907,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/14/2020 2048,,Obstetrics,Female,Pregnant,25,Other,Unknown ,10456,Not on file,31w4d,7/15/2020,,Negative,,
+908,METROPOLITAN HOSPITAL CENTER,ME ED ADULT , 07/15/2020 1627,7/16/2020,Gynecology,Female,Pregnant,38,Other,Ecuadorian ,11101,,,7/15/2020,,Negative,,
+909,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,"Other
+Declined",,10452,Healthfirst Comm,21w6d,7/2/2020,,Not Detected,,
+910,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,"Declined
+Unknown
+Other",,10452,Unitedhealthcare McD,32w0d,7/8/2020,,Not Detected,,
+911,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO VAN 1 TC , ,,Primary Care,Female,Pregnant,28,Black,Non-Hispanic ,10451,Not on file,50w3d,7/2/2020,,Not Detected,,
+912,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,49,Other,,10456,Empire Bcbs Healthplus McD,32w3d,7/12/2020,,Not Detected,,
+913,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Other,,10462,Metroplus McD,27w1d,7/14/2020,,Not Detected,,
+914,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Unknown ,10467,Unitedhealthcare Comm,21w1d,7/9/2020,,Not Detected,,
+915,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/13/2020 0138,7/15/2020,Obstetrics,Female,Pregnant,38,Other,,10455,Not on file,39w5d,7/13/2020,,Negative,,
+916,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 06/30/2020 1501,6/30/2020,Emergency,Female,Pregnant,30,Other,Puerto Rican ,10462,Not on file,14w0d,7/2/2020,,Not Detected,,
+917,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 07/01/2020 1325,,Emergency,Female,Pregnant,32,Other,Dominican ,10467,Not on file,13w5d,7/1/2020,,Negative,,
+918,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,27,Black,,10456,Not on file,,7/14/2020,,Negative,,
+919,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,37,White,Non-Hispanic ,10469,Healthfirst McD,16w2d,7/15/2020,,Not Detected,,
+920,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/03/2020 0447,7/3/2020,Obstetrics,Female,Pregnant,29,Other,Colombian ,10458,Unitedhealthcare McD,41w0d,7/3/2020,,Negative,,
+921,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Gynecology,Female,Pregnant,34,Other,,10458,Not on file,,7/8/2020,,Negative,,
+922,NORTH CENTRAL BRONX HOSPITAL,NO ED PEDIATRIC , 07/06/2020 0847,7/6/2020,Emergency,Female,Pregnant,18,Black,,10467,Not on file,16w0d,7/6/2020,,Negative,,
+923,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 07/08/2020 1549,7/8/2020,Emergency,Female,Pregnant,27,Other,Dominican ,10467,Not on file,,7/8/2020,,Negative,,
+924,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/09/2020 2353,7/10/2020,Obstetrics,Female,Pregnant,27,Other,,10467,Not on file,37w4d,7/10/2020,,Negative,,
+925,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 07/10/2020 0940,7/10/2020,Emergency,Female,Pregnant,29,Black,Non-Hispanic ,10467,Not on file,17w6d,7/10/2020,,Negative,,
+926,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/13/2020 0820,7/13/2020,Obstetrics,Female,Pregnant,37,Black,Non-Hispanic ,10467,Not on file,32w5d,7/13/2020,,Negative,,
+927,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/14/2020 0902,7/14/2020,Obstetrics,Female,Pregnant,30,Other,Dominican ,10456,Not on file,30w3d,7/14/2020,,Negative,,
+928,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/10/2020 0650,7/10/2020,Obstetrics,Female,Pregnant,32,White,,11218,Not on file,,7/10/2020,,Negative,,
+929,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,White,,11433,Metroplus McD,49w2d,7/3/2020,,Not Detected,,
+930,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,,11433,Healthfirst McD,21w2d,7/15/2020,,Not Detected,,
+931,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,35,Other,Non-Hispanic ,11419,Not on file,,7/15/2020,,Negative,,
+932,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,33,Other,,11436,Not on file,22w6d,7/6/2020,,Negative,,
+933,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/04/2020 1612,7/7/2020,Obstetrics,Female,Pregnant,26,Black,Non-Hispanic ,11433,Not on file,33w1d,7/4/2020,,Negative,,
+934,QUEENS HOSPITAL CENTER,QU OUTPATIENT LAB , ,,Laboratory,Female,Pregnant,34,Other,Non-Hispanic ,11419,Emergency Medicaid,,7/9/2020,,Not Detected,,
+935,QUEENS HOSPITAL CENTER,QU BLEECKER , ,,Primary Care,Female,Pregnant,38,Other,Unknown ,11385,Not on file,13w5d,7/11/2020,,NOT DETECTED,,
+936,QUEENS HOSPITAL CENTER,QU WOMENS HEALTH SRVCS , ,,Family Planning,Female,Pregnant,33,Other,Unknown ,11208,Not on file,,7/9/2020,,Not Detected,,
+937,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,Non-Hispanic ,11367,Healthfirst McD,14w1d,7/10/2020,,Not Detected,,
+938,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Unknown,Salvadoran ,11580,,63w3d,7/14/2020,,Not Detected,,
+939,QUEENS HOSPITAL CENTER,QU BLEECKER , ,,Primary Care,Female,Pregnant,31,Other,,11385,Metroplus McD,23w5d,7/15/2020,,NOT DETECTED,MRSA (confirmed),
+940,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/13/2020 0715,7/15/2020,Obstetrics,Female,Pregnant,42,Other,,11432,Not on file,30w3d,7/13/2020,,Negative,,
+941,QUEENS HOSPITAL CENTER,QU BLEECKER , ,,Primary Care,Female,Pregnant,33,Other,,11237,Not on file,31w1d,7/4/2020,,NOT DETECTED,,
+942,SYDENHAM HEALTH CENTER,SY HIGHBRIDGE POOL , ,,Primary Care,Female,Pregnant,42,Other,,10019,,,7/6/2020,Abnormal,DETECTED,COVID-19 (confirmed),
+943,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Other,,11212,Healthfirst McD,,7/6/2020,,Negative,,
+944,WOODHULL MEDICAL CENTER,WO ED ADULT , 07/06/2020 0717,7/10/2020,Surgery,Female,Pregnant,34,Other,,11385,Emergency Medicaid,,7/6/2020,,Negative,,
+945,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/07/2020 1523,7/7/2020,Obstetrics,Female,Pregnant,27,Other,,11237,Not on file,30w2d,7/7/2020,,Negative,,
+946,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Other,,11206,Metroplus McD,,7/13/2020,,Negative,,
+947,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/11/2020 2015,7/11/2020,Obstetrics,Female,Pregnant,36,White,Non-Hispanic ,11211,Not on file,36w6d,7/11/2020,,Negative,,
+948,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/14/2020 1730,7/14/2020,Obstetrics,Female,Pregnant,31,Korean,,11206,Metroplus McD,39w3d,7/14/2020,,Negative,,
+949,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,20,Other,Non-Hispanic ,11207,Healthfirst McD,,7/13/2020,,Negative,,
+950,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 07/17/2020 0912,7/17/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,10460,Not on file,34w0d,7/17/2020,,Not Detected,,
+951,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Other,,11377,Metroplus McD,20w1d,7/28/2020,,Not Detected,,
+952,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Other,,11207,Metroplus McD,25w0d,7/22/2020,,Not Detected,,
+953,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Asian,Chinese ,11552,Emblemhealth Comm,133w0d,7/16/2020,,Not Detected,,
+954,BELLEVUE HOSPITAL CENTER,BE IP 9S L&D , 07/15/2020 1638,7/18/2020,Obstetrics,Female,Pregnant,40,Other,,11378,Metroplus McD,30w1d,7/17/2020,,Not Detected,,
+955,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Black,,10016,Healthfirst McD,,7/16/2020,,Not Detected,,
+956,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,White,Non-Hispanic ,11103,Empire Bcbs Comm,,7/25/2020,,Not Detected,,
+957,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,11377,Metroplus McD,38w0d,7/23/2020,,Not Detected,,
+958,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Other,Unknown ,11378,Healthfirst Comm,13w6d,7/24/2020,,Not Detected,,
+959,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 07/26/2020 0025,7/28/2020,Surgery,Female,Pregnant,42,Other,Mexican/Mexican American ,11419,Not on file,,7/26/2020,,Negative,,
+960,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,36,Other,,11365,Metroplus McD,,7/28/2020,,Not Detected,,
+961,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 07/28/2020 1208,7/28/2020,Emergency,Female,Pregnant,29,Other,Non-Hispanic ,11369,Metroplus McD,9w6d,7/28/2020,,Negative,,
+962,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,,10039,Empire Bcbs Comm,,7/29/2020,,Not Detected,,
+963,BELLEVUE HOSPITAL CENTER,BE ED ADULT , 07/29/2020 1901,7/30/2020,Emergency,Female,Pregnant,28,Other,,11372,Not on file,,7/30/2020,,Not Detected,,
+964,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,,11368,Metroplus McD,39w6d,7/30/2020,,Not Detected,,
+965,BELLEVUE HOSPITAL CENTER,BE PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,White,Non-Hispanic ,10010,Empire Bcbs Comm,,7/31/2020,,Not Detected,,
+966,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Black,,10454,No Fault Misc,14w5d,7/25/2020,,Not Detected,,
+967,BELVIS DIAGNOSTIC & TREATMENT CENTER,BV PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,,10454,Metroplus McD,20w5d,7/26/2020,,Not Detected,,
+968,CI IDA G ISRAEL CHC,CI IDA G ISRAEL CHC , ,,Primary Care,Female,Pregnant,27,Other,,11224,Healthfirst McD,,7/24/2020,,Not Detected,,
+969,CONEY ISLAND HOSPITAL CENTER,CI FORT HAMILTON TC , ,,Primary Care,Female,Pregnant,28,White,Non-Hispanic ,11233,Metroplus McD,21w5d,7/22/2020,,Not Detected,,
+970,CONEY ISLAND HOSPITAL CENTER,CI BENSONHURST 14 TC , ,,Primary Care,Female,Pregnant,33,Other,,10467,Metroplus McD,15w6d,7/21/2020,,Not Detected,,
+971,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/23/2020 1719,7/23/2020,OB ED,Female,Pregnant,31,Black,Non-Hispanic ,11224,Not on file,21w1d,7/23/2020,,Negative,,
+972,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,White,Unknown ,11235,,,7/23/2020,,Not Detected,,
+973,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Other,,11224,Metroplus McD,,7/19/2020,,Not Detected,,
+974,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/19/2020 0743,7/20/2020,Obstetrics,Female,Pregnant,34,Other,,11418,Not on file,40w5d,7/19/2020,,Negative,,
+975,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/20/2020 1959,7/21/2020,Obstetrics,Female,Pregnant,30,Asian,Unknown ,11214,Not on file,26w6d,7/21/2020,,Negative,,
+976,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,33,Unknown,,11204,Not on file,15w4d,7/21/2020,,Negative,,
+977,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/27/2020 1035,7/27/2020,Obstetrics,Female,Pregnant,38,Black,Non-Hispanic ,11229,Not on file,17w4d,7/25/2020,,Negative,,
+978,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/26/2020 1321,7/26/2020,OB ED,Female,Pregnant,36,White,,10306,Not on file,36w6d,7/26/2020,Abnormal,Positive,COVID-19 (confirmed),
+979,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/26/2020 1346,7/29/2020,Obstetrics,Female,Pregnant,39,Asian,,11230,Healthfirst McD,40w1d,7/26/2020,,Negative,,
+980,CONEY ISLAND HOSPITAL CENTER,CI PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Unknown,,11223,Unitedhealthcare Comm,,7/28/2020,,Not Detected,,
+981,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,34,White,Non-Hispanic ,11235,Healthfirst Comm,19w6d,7/31/2020,,Not Detected,,
+982,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/29/2020 2203,8/1/2020,Obstetrics,Female,Pregnant,32,Other,Non-Hispanic ,11223,Metroplus McD,41w6d,7/30/2020,,Negative,,
+983,CONEY ISLAND HOSPITAL CENTER,CI ED ADULT , 07/31/2020 0813,7/31/2020,Ambulatory Surgery,Female,Pregnant,35,White,,11368,Not on file,,7/31/2020,,Negative,,
+984,CONEY ISLAND HOSPITAL CENTER,CI IP LABOR & DLVRY , 07/31/2020 0847,8/2/2020,Obstetrics,Female,Pregnant,26,Other,Mexican/Mexican American ,11235,Not on file,43w1d,7/31/2020,,Negative,,
+985,CONEY ISLAND HOSPITAL CENTER,CI WOMENS HEALTH SRVCES , ,,Obstetrics Pre Natal,Female,Pregnant,34,Other Pacific Islander,Non-Hispanic ,11210,Not on file,38w5d,7/31/2020,,Negative,,
+986,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,29,Unknown,,11377,,9w2d,7/23/2020,,Not Detected,,
+987,CU WOODSIDE HOUSES CHC,CU WOODSIDE CHILD HC , ,,Primary Care,Female,Pregnant,40,Other,Mexican/Mexican American ,11377,Metroplus McD,,7/18/2020,,Not Detected,,
+988,CUMBERLAND DTC,CU VAN 4 TC , ,,Primary Care,Female,Pregnant,50,White,Non-Hispanic ,10312,Not on file,,7/28/2020,,Not Detected,,
+989,CUMBERLAND DTC,CU PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,Other Hispanic ,11226,Emblemhealth McD,,7/17/2020,,Not Detected,,
+990,CUMBERLAND DTC,CU JACOB RIIS SH TC , ,,Primary Care,Female,Pregnant,24,"Other
+Other",Non-Hispanic ,11101,Emergency Medicaid,,7/26/2020,,NOT DETECTED,,
+991,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,30,Other,,11373,Not on file,26w5d,7/21/2020,,Not Detected,,
+992,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Asian,Non-Hispanic ,11375,Healthfirst McD,,7/28/2020,,Not Detected,,
+993,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,27,Other,,11373,Not on file,18w2d,7/27/2020,,Negative,,
+994,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,16,Other,,11368,Not on file,17w0d,7/21/2020,,Not Detected,,
+995,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,34,Asian,,11377,Not on file,14w4d,7/19/2020,,NOT DETECTED,,
+996,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,18,White,Ecuadorian ,11368,Not on file,15w5d,7/24/2020,,NOT DETECTED,,
+997,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Other,Ecuadorian ,11368,Metroplus McD,9w4d,7/29/2020,,Not Detected,,
+998,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,19,Other,,11368,Healthfirst McD,,7/21/2020,,Not Detected,,
+999,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Other,Mexican/Mexican American ,11372,Emergency Medicaid,,7/29/2020,,Not Detected,,
+1000,ELMHURST HOSPITAL CENTER,EL BEACH 39TH TC , ,,Primary Care,Female,Pregnant,25,Other,,11694,Not on file,,7/30/2020,,Not Detected,,
+1001,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,40,Black,Non-Hispanic ,11106,,22w5d,7/30/2020,,Not Detected,,
+1002,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/15/2020 1621,7/16/2020,Medicine,Female,Pregnant,24,Other,Non-Hispanic ,10302,Not on file,,7/16/2020,,Negative,,
+1003,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/18/2020 1529,7/21/2020,Obstetrics,Female,Pregnant,30,Other,,11373,Not on file,24w6d,7/18/2020,,Negative,,
+1004,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/16/2020 2343,7/17/2020,Emergency,Female,Pregnant,37,Other,,11373,Not on file,,7/17/2020,,Not Detected,,
+1005,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,44,Other,,11379,Healthfirst McD,28w1d,7/18/2020,,Not Detected,,
+1006,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/19/2020 2011,7/25/2020,Medicine,Female,Pregnant,25,"White
+Unknown",Non-Hispanic ,11377,Healthfirst McD,,7/20/2020,,Not Detected,,
+1007,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/20/2020 0519,7/20/2020,Emergency,Female,Pregnant,32,Other,Non-Hispanic ,11106,Healthfirst McD,17w6d,7/20/2020,,Not Detected,,
+1008,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Other,,11369,New York Medicaid,15w3d,7/23/2020,,Not Detected,,
+1009,ELMHURST HOSPITAL CENTER,EL OBSTETRICS WHS , ,,Obstetrics High Risk,Female,Pregnant,37,Other,Ecuadorian ,11373,Metroplus McD,43w2d,7/31/2020,,Not Detected,,
+1010,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/17/2020 0349,7/17/2020,Emergency,Female,Pregnant,38,Other,Colombian ,11369,Emergency Medicaid,13w6d,7/17/2020,,Not Detected,,
+1011,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/24/2020 1010,7/30/2020,Obstetrics,Female,Pregnant,28,Other,Bangladeshi ,11101,Not on file,38w5d,7/24/2020,,Negative,,
+1012,ELMHURST HOSPITAL CENTER,EL ED ADULT , 07/25/2020 0022,7/26/2020,Obstetrics,Female,Pregnant,42,Other,Unknown ,11372,Not on file,,7/25/2020,,Negative,,
+1013,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/30/2020 1721,8/1/2020,Obstetrics,Female,Pregnant,30,Other,Mexican/Mexican American ,11373,Not on file,40w1d,7/30/2020,,Negative,,
+1014,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Other,Other Hispanic ,11435,Metroplus McD,,7/29/2020,,Not Detected,,
+1015,ELMHURST HOSPITAL CENTER,EL IP D5 LABOR & DLVRY , 07/29/2020 1307,7/31/2020,Obstetrics,Female,Pregnant,27,Asian,,11106,Not on file,29w5d,7/29/2020,,Negative,,
+1016,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,32,Asian,,11104,Metroplus Comm,31w5d,7/27/2020,,Negative,,
+1017,ELMHURST HOSPITAL CENTER,EL 51-30 NORTHERN BLVD TC , ,,Primary Care,Female,Pregnant,34,Other,Ecuadorian ,11356,Not on file,39w2d,7/20/2020,,NOT DETECTED,,
+1018,ELMHURST HOSPITAL CENTER,EL PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,Ecuadorian ,11368,Emergency Medicaid,,7/20/2020,,Not Detected,,
+1019,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,32,Black,Colombian ,11207,Healthfirst McD,30w1d,7/16/2020,,Not Detected,,
+1020,EY EAST NEW YORK DTC,EY MIDWOOD PRE-K , ,,Primary Care,Female,Pregnant,28,Asian,Non-Hispanic ,11235,Not on file,,7/26/2020,,NOT DETECTED,,
+1021,EY EAST NEW YORK DTC,EY PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Black,Non-Hispanic ,10472,Fidelis Care McD,41w5d,7/23/2020,Abnormal,TNP,,
+1022,GOUVERNEUR HEALTHCARE,GV PRIMARY CARE , ,,Primary Care,Female,Pregnant,21,Other,Unknown ,10002,,16w4d,7/17/2020,,Not Detected,,
+1023,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Black,Non-Hispanic ,10039,Metroplus McD,,7/21/2020,,Not Detected,,
+1024,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Black,Non-Hispanic ,10030,Magnacare,,7/29/2020,,Not Detected,,
+1025,HARLEM HOSPITAL CENTER,HA ED ADULT , 07/20/2020 1150,,Obstetrics,Female,Pregnant,28,Black,Non-Hispanic ,10026,Healthfirst McD,,7/20/2020,,Negative,,
+1026,HARLEM HOSPITAL CENTER,HA PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,White,Non-Hispanic ,10451,Healthfirst McD,,7/23/2020,,Not Detected,,
+1027,HARLEM HOSPITAL CENTER,HA ED ADULT , 07/16/2020 1815,7/22/2020,Medicine,Female,Pregnant,34,"Other
+Black",Unknown ,10454,Metroplus McD,,7/17/2020,,Negative,,
+1028,JACOBI MEDICAL CENTER,JA EDWARD GRANT TC , ,,Primary Care,Female,Pregnant,34,Black,,10542,Not on file,,7/16/2020,,NOT DETECTED,,
+1029,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/23/2020 0629,7/23/2020,Obstetrics,Female,Pregnant,32,Black,Non-Hispanic ,10460,Metroplus McD,30w4d,7/23/2020,,Negative,,
+1030,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Other,Ecuadorian ,10472,Emergency Medicaid,,7/23/2020,,Not Detected,,
+1031,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/15/2020 2001,7/15/2020,Obstetrics,Female,Pregnant,26,Other,Puerto Rican ,10473,Not on file,30w1d,7/17/2020,,Not Detected,,
+1032,JACOBI MEDICAL CENTER,JA ED ADULT , 07/15/2020 2048,7/16/2020,Emergency,Female,Pregnant,32,Unknown,,10455,Unitedhealthcare McD,,7/16/2020,,Negative,,
+1033,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Black,Non-Hispanic ,10550,Metroplus McD,,7/24/2020,,Not Detected,,
+1034,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 07/16/2020 1612,7/16/2020,Emergency,Female,Pregnant,19,Black,,6515,Not on file,,7/17/2020,,Not Detected,,
+1035,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/17/2020 0649,7/17/2020,Obstetrics,Female,Pregnant,30,Other,,10462,Not on file,29w6d,7/18/2020,,Not Detected,,
+1036,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,Mexican/Mexican American ,10460,Healthfirst McD,15w3d,7/31/2020,,Not Detected,,
+1037,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/18/2020 0843,7/18/2020,Obstetrics,Female,Pregnant,35,Black,Non-Hispanic ,10466,Not on file,36w0d,7/18/2020,,Negative,,
+1038,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,10475,New York Medicaid,24w4d,7/21/2020,,Not Detected,,
+1039,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/19/2020 0634,7/19/2020,Obstetrics,Female,Pregnant,35,White,Unknown ,11362,Not on file,,7/19/2020,,Negative,,
+1040,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Black,Non-Hispanic ,10469,Empire Bcbs Healthplus McD,,7/30/2020,,Not Detected,,
+1041,JACOBI MEDICAL CENTER,JA ED PEDIATRIC , 07/23/2020 0214,7/23/2020,Emergency,Female,Pregnant,16,Black,Non-Hispanic ,10457,Not on file,,7/23/2020,,Negative,,
+1042,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/23/2020 1129,7/23/2020,Obstetrics,Female,Pregnant,34,Other,Other Hispanic ,10472,Metroplus McD,34w0d,7/23/2020,,Negative,,
+1043,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/26/2020 1427,7/26/2020,Obstetrics,Female,Pregnant,32,Other,Other Hispanic ,10465,Not on file,42w3d,7/26/2020,,Negative,,
+1044,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/26/2020 1605,7/26/2020,Obstetrics,Female,Pregnant,19,Other,Declined ,10461,Not on file,41w5d,7/26/2020,,Negative,,
+1045,JACOBI MEDICAL CENTER,JA IP 7EJ L&D , 07/29/2020 0801,8/1/2020,Obstetrics,Female,Pregnant,28,Other,Non-Hispanic ,10467,Not on file,42w4d,7/29/2020,,Not Detected,,
+1046,JACOBI MEDICAL CENTER,JA BRONXWOOD PREP TC , ,,Primary Care,Female,Pregnant,22,Other,Declined ,10466,Healthfirst McD,36w5d,7/30/2020,,NOT DETECTED,,
+1047,JACOBI MEDICAL CENTER,JA PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Dominican ,10460,Fidelis Care McD,24w2d,7/17/2020,,Not Detected,,
+1048,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Black,Non-Hispanic ,11434,1199 National Benefit Fund,,7/29/2020,,Not Detected,,
+1049,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,38,Black,Non-Hispanic ,10304,,16w3d,7/30/2020,,Not Detected,,
+1050,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,24,Black,Non-Hispanic ,11212,Healthfirst McD,29w6d,7/28/2020,,Not Detected,,
+1051,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/16/2020 0754,7/17/2020,Gynecology,Female,Pregnant,39,Black,Unknown ,11212,New York Medicaid,23w3d,7/16/2020,,Negative,,
+1052,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Mexican/Mexican American ,11228,Emergency Medicaid,,7/21/2020,,Not Detected,,
+1053,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,41,Black,Unknown ,11233,Empire Bcbs Comm,,7/29/2020,,Not Detected,,
+1054,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,35,Black,Non-Hispanic ,11212,Metroplus Comm,25w4d,7/21/2020,,Not Detected,,
+1055,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Unknown,Non-Hispanic ,11236,Metroplus McD,23w3d,7/25/2020,,Not Detected,,
+1056,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/16/2020 1817,7/18/2020,Obstetrics,Female,Pregnant,32,Black,Non-Hispanic ,11236,Not on file,11w3d,7/17/2020,,Not Detected,,
+1057,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/22/2020 1025,7/22/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,11203,Not on file,37w2d,7/22/2020,,Negative,,
+1058,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/20/2020 0800,7/20/2020,Emergency,Female,Pregnant,25,Other,,11203,Not on file,,7/20/2020,,,COVID-19 (rule out),
+1059,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,27,Black,Non-Hispanic ,11236,Unitedhealthcare McD,,7/21/2020,,Not Detected,,
+1060,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,,11433,Metroplus Comm,,7/22/2020,,Not Detected,,
+1061,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/21/2020 1609,7/21/2020,Emergency,Female,Pregnant,25,Black,Non-Hispanic ,11226,Not on file,13w3d,7/22/2020,,Not Detected,,
+1062,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,38,Black,Non-Hispanic ,11203,,,7/22/2020,,Not Detected,,
+1063,KINGS COUNTY HOSPITAL CENTER,KC ED PSYCH , 07/23/2020 0444,7/31/2020,Adult Psych,Female,Pregnant,30,Black,Non-Hispanic ,11234,Healthfirst McD,,7/23/2020,,Negative,,
+1064,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/24/2020 1417,7/24/2020,Obstetrics,Female,Pregnant,21,Black,Non-Hispanic ,11230,Not on file,37w0d,7/24/2020,,Negative,,
+1065,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/23/2020 1524,7/28/2020,Obstetrics,Female,Pregnant,30,Black,Non-Hispanic ,11236,Metroplus McD,42w4d,7/23/2020,,Negative,,
+1066,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,,Female,Pregnant,38,Black,,11233,Emblemhealth McD,,7/25/2020,,Not Detected,,
+1067,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/24/2020 1303,7/29/2020,Obstetrics,Female,Pregnant,32,Black,Non-Hispanic ,11236,Not on file,37w0d,7/24/2020,,Negative,,
+1068,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/26/2020 1430,7/26/2020,Emergency,Female,Pregnant,42,Black,Non-Hispanic ,11213,Not on file,,7/26/2020,,Negative,,
+1069,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/28/2020 1348,7/29/2020,Gynecology,Female,Pregnant,28,Black,Non-Hispanic ,11203,Not on file,,7/28/2020,,Negative,,
+1070,KINGS COUNTY HOSPITAL CENTER,KC ED ADULT , 07/29/2020 1726,7/30/2020,Gynecology,Female,Pregnant,33,Other,Unknown ,11212,Not on file,,7/31/2020,,Not Detected,COVID-19 (rule out),
+1071,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/29/2020 1052,7/31/2020,Obstetrics,Female,Pregnant,37,Black,,11226,Not on file,36w5d,7/29/2020,,Negative,,
+1072,KINGS COUNTY HOSPITAL CENTER,KC IP S5S L&D , 07/31/2020 1710,8/2/2020,Gynecology,Female,Pregnant,31,Black,,11234,Not on file,25w0d,7/31/2020,,Negative,,
+1073,KINGS COUNTY HOSPITAL CENTER,KC PRIMARY CARE , ,,Primary Care,Female,Pregnant,31,Black,Non-Hispanic ,11216,Medicaid Hmo Misc,36w5d,7/30/2020,,Not Detected,,
+1074,LINCOLN MEDICAL CENTER,LI ST JAMES REC CTR TC , ,,Primary Care,Female,Pregnant,29,Other,,10468,Not on file,24w3d,7/20/2020,,NOT DETECTED,,
+1075,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Black,,10453,Healthfirst McD,,7/16/2020,,Not Detected,,
+1076,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/16/2020 0604,7/17/2020,Obstetrics,Female,Pregnant,19,Other,,10454,Not on file,44w4d,7/16/2020,,Negative,,
+1077,LINCOLN MEDICAL CENTER,LI ED ADULT , 07/17/2020 1529,7/17/2020,Emergency,Female,Pregnant,20,Other,,10456,Emblemhealth Comm,10w5d,7/17/2020,,Negative,,
+1078,LINCOLN MEDICAL CENTER,LI ED ADULT , 07/22/2020 1428,7/23/2020,Emergency,Female,Pregnant,25,Other,Other Hispanic ,10456,Not on file,,7/22/2020,,Negative,,
+1079,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,22,Other,,10451,Metroplus McD,35w2d,7/30/2020,,Not Detected,,
+1080,LINCOLN MEDICAL CENTER,LI ED ADULT , 07/22/2020 2008,7/23/2020,Emergency,Female,Pregnant,35,Other,,10459,Not on file,,7/23/2020,,Negative,,
+1081,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/22/2020 2043,7/23/2020,Obstetrics,Female,Pregnant,34,Other,,11373,Not on file,,7/23/2020,,Negative,,
+1082,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,Other Hispanic ,10451,Healthfirst McD,,7/24/2020,,Not Detected,,
+1083,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Black,Non-Hispanic ,10456,Metroplus McD,29w4d,7/29/2020,,"see report
+not detected",,
+1084,LINCOLN MEDICAL CENTER,LI PROCEDURE ROOM WH 7D , 07/27/2020 1036,7/27/2020,Surgery,Female,Pregnant,37,Unknown,,10458,Not on file,,7/27/2020,,Negative,,
+1085,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,23,Black,,10031,Healthfirst McD,31w5d,7/29/2020,,Not Detected,,
+1086,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/28/2020 0339,7/28/2020,Obstetrics,Female,Pregnant,44,White,,10012,Not on file,31w3d,7/28/2020,,Negative,,
+1087,LINCOLN MEDICAL CENTER,LI IP 5AO LABOR & DLVRY , 07/28/2020 1305,7/30/2020,Obstetrics,Female,Pregnant,30,Black,,10458,Not on file,25w3d,7/28/2020,,Negative,,
+1088,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,26,Other,,6902,Emblemhealth Comm,,7/30/2020,,Not Detected,,
+1089,LINCOLN MEDICAL CENTER,LI PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Other,,10027,Emblemhealth Comm,,7/30/2020,,Not Detected,,
+1090,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/26/2020 0616,7/26/2020,Obstetrics,Female,Pregnant,33,Black,Non-Hispanic ,10459,Not on file,20w4d,7/26/2020,,Negative,,
+1091,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/16/2020 0527,7/19/2020,Obstetrics,Female,Pregnant,27,Other,,10452,Not on file,45w2d,7/16/2020,,Negative,,
+1092,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Black,Non-Hispanic ,10035,Metroplus McD,16w2d,7/28/2020,,Not Detected,,
+1093,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,Other,Declined ,10128,Not on file,,7/19/2020,,Not Detected,,
+1094,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/20/2020 1223,7/22/2020,Obstetrics,Female,Pregnant,27,Other,Non-Hispanic ,10029,Not on file,41w0d,7/20/2020,,Negative,,
+1095,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/24/2020 0400,7/25/2020,Obstetrics,Female,Pregnant,37,Other,Mexican/Mexican American ,11373,Not on file,43w3d,7/24/2020,,Negative,,
+1096,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,Non-Hispanic ,10459,Metroplus McD,,7/24/2020,,Not Detected,,
+1097,METROPOLITAN HOSPITAL CENTER,ME IP LABOR & DLVRY , 07/31/2020 1258,8/1/2020,Gynecology,Female,Pregnant,26,"Other
+Unknown
+Other",Unknown ,11209,New York Medicaid,8w1d,7/31/2020,,Negative,,
+1098,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,,Female,Pregnant,34,Other,,11377,Metroplus McD,26w0d,7/22/2020,,Not Detected,,
+1099,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,44,Other,,11374,Fidelis Care McD,25w1d,7/21/2020,,Not Detected,,
+1100,METROPOLITAN HOSPITAL CENTER,ME PRIMARY CARE , ,,Primary Care,Female,Pregnant,24,Black,Non-Hispanic ,10029,Metroplus Comm,17w1d,7/17/2020,,Not Detected,,
+1101,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,29,Other,,10452,Metroplus McD,,7/19/2020,,Not Detected,,
+1102,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,,Female,Pregnant,31,Other,Dominican ,10453,Healthfirst McD,20w3d,7/22/2020,,Not Detected,,
+1103,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,,Female,Pregnant,33,Other,,10463,,15w5d,7/29/2020,,Not Detected,,
+1104,MORRISANIA DIAGNOSTIC & TREATMENT CENTER,MO PRIMARY CARE , ,,Primary Care,Female,Pregnant,50,Black,Non-Hispanic ,10001,Unitedhealthcare McD,18w2d,7/17/2020,,Not Detected,,
+1105,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/25/2020 1318,7/25/2020,Obstetrics,Female,Pregnant,29,Other,,10472,Not on file,30w3d,7/25/2020,,Negative,,
+1106,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,28,Other,Mexican/Mexican American ,10460,Metroplus Comm,17w0d,7/21/2020,,Not Detected,,
+1107,NORTH CENTRAL BRONX HOSPITAL,NO INTRA-OP , 07/24/2020 0624,7/24/2020,Surgery,Female,Pregnant,35,Black,Unknown ,10466,Metroplus Comm,10w5d,7/22/2020,,Negative,,
+1108,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/19/2020 0924,7/19/2020,Obstetrics,Female,Pregnant,20,Other,,10458,Not on file,39w3d,7/19/2020,,Negative,,
+1109,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,39,Declined,Unknown ,10452,Metroplus McD,39w0d,7/19/2020,,Not Detected,,
+1110,NORTH CENTRAL BRONX HOSPITAL,NO INTRA-OP , 07/29/2020 1033,7/29/2020,Surgery,Female,Pregnant,16,Other,Other Hispanic ,10467,Not on file,,7/28/2020,,Negative,,
+1111,NORTH CENTRAL BRONX HOSPITAL,NO ED PEDIATRIC , 07/22/2020 0949,7/22/2020,Emergency,Female,Pregnant,17,Other,Mexican/Mexican American ,10467,Not on file,,7/22/2020,,Negative,,
+1112,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,30,American Indian or Alaskan,Non-Hispanic ,10456,Metroplus McD,,7/23/2020,,Not Detected,,
+1113,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 07/23/2020 1825,,Emergency,Female,Pregnant,40,Black,,10458,Not on file,,7/23/2020,,Negative,,
+1114,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Black,Unknown ,10457,Fidelis Care Comm,24w4d,7/30/2020,,Not Detected,,
+1115,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,25,Other,Other Hispanic ,10455,Metroplus McD,51w0d,7/22/2020,,Not Detected,,
+1116,NORTH CENTRAL BRONX HOSPITAL,NO IP 7A LABOR & DLVRY , 07/24/2020 0951,7/26/2020,Obstetrics,Female,Pregnant,20,Black,,10466,Not on file,,7/24/2020,,Negative,,
+1117,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Gynecology,Female,Pregnant,35,Black,,10467,Not on file,,7/28/2020,,Negative,,
+1118,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,40,Other,Non-Hispanic ,10458,Not on file,,7/16/2020,,Not Detected,,
+1119,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,GYN TOP Counsel,Female,Pregnant,33,Other,Non-Hispanic ,10468,Affinity Health Plan McD,,7/23/2020,,Negative,,
+1120,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 07/30/2020 2207,8/1/2020,Medical Intensive Care,Female,Pregnant,23,Other,,10458,Not on file,,7/30/2020,,Negative,,
+1121,NORTH CENTRAL BRONX HOSPITAL,NO WOMENS HEALTH SRVCS , ,,Obstetrics Pre Natal,Female,Pregnant,31,White,,10467,Not on file,30w1d,7/31/2020,,Negative,,
+1122,NORTH CENTRAL BRONX HOSPITAL,NO ED ADULT , 07/31/2020 1411,8/1/2020,Obstetrics,Female,Pregnant,26,Other,,10467,Healthfirst McD,18w0d,7/31/2020,,Negative,,
+1123,NORTH CENTRAL BRONX HOSPITAL,NO PRIMARY CARE , ,,Primary Care,Female,Pregnant,33,Other,Mexican/Mexican American ,10468,Fidelis Care McD,32w0d,7/24/2020,Abnormal,Positive for 2019-nCoV,COVID-19 (confirmed),
+1124,QUEENS HOSPITAL CENTER,QU OUTPATIENT LAB , ,,Primary Care,Female,Pregnant,29,Other,,11420,Not on file,2w2d,7/30/2020,,Not Detected,,
+1125,QUEENS HOSPITAL CENTER,QU ED ADULT , 07/15/2020 2059,7/16/2020,Emergency,Female,Pregnant,27,"Declined
+Black",Non-Hispanic ,11429,Healthfirst McD,12w5d,7/17/2020,,Not Detected,,
+1126,QUEENS HOSPITAL CENTER,QU WINDSOR PARK LIB TC , ,,Primary Care,Female,Pregnant,40,Asian,,11427,Not on file,20w0d,7/25/2020,,Negative,,
+1127,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/17/2020 0638,7/17/2020,Obstetrics,Female,Pregnant,21,Other,,11435,Not on file,38w0d,7/17/2020,,Negative,,
+1128,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,40,Other,,11435,,,7/16/2020,,Not Detected,,
+1129,QUEENS HOSPITAL CENTER,QU ED ADULT , 07/20/2020 2153,7/24/2020,Medicine,Female,Pregnant,27,Black,Non-Hispanic ,11691,Metroplus Comm,14w2d,7/22/2020,,Not Detected,,
+1130,QUEENS HOSPITAL CENTER,QU OUTPATIENT LAB , ,,Primary Care,Female,Pregnant,28,Other,Non-Hispanic ,11432,Metroplus McD,15w6d,7/22/2020,,Not Detected,,
+1131,QUEENS HOSPITAL CENTER,QU PRIMARY CARE , ,,Primary Care,Female,Pregnant,34,Black,Non-Hispanic ,11434,Healthfirst Comm,,7/23/2020,,Not Detected,,
+1132,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/28/2020 1335,7/30/2020,Obstetrics,Female,Pregnant,34,Black,Non-Hispanic ,11413,Healthfirst McD,29w4d,7/29/2020,,Not Detected,,
+1133,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/28/2020 1510,7/30/2020,Obstetrics,Female,Pregnant,20,Other,,11418,Not on file,35w2d,7/29/2020,,Not Detected,,
+1134,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/31/2020 0802,7/31/2020,Obstetrics,Female,Pregnant,37,Black,Non-Hispanic ,11236,Not on file,17w0d,7/30/2020,,Negative,,
+1135,QUEENS HOSPITAL CENTER,QU ED ADULT , 07/30/2020 1323,7/31/2020,Gynecology,Female,Pregnant,28,Other,Unknown ,10472,Not on file,,7/30/2020,,Negative,,
+1136,QUEENS HOSPITAL CENTER,QU IP A2W OBST L&D , 07/24/2020 2304,7/25/2020,Obstetrics,Female,Pregnant,41,Black,Non-Hispanic ,11433,Metroplus Comm,35w6d,7/25/2020,,Negative,,
+1137,WOODHULL MEDICAL CENTER,WO ED ADULT , 07/27/2020 1433,7/27/2020,Emergency,Female,Pregnant,35,Other,Unknown ,11213,Metroplus McD,8w5d,7/27/2020,,Negative,,
+1138,WOODHULL MEDICAL CENTER,WO ED ADULT , 07/24/2020 0949,7/24/2020,Emergency,Female,Pregnant,29,Black,Non-Hispanic ,11221,Not on file,17w0d,7/24/2020,,Negative,,
+1139,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/17/2020 1729,7/17/2020,Obstetrics,Female,Pregnant,37,Black,Non-Hispanic ,11208,Not on file,26w5d,7/17/2020,,Negative,,
+1140,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/17/2020 1751,7/19/2020,Obstetrics,Female,Pregnant,22,Other,,11212,Not on file,41w0d,7/18/2020,,Negative,,
+1141,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,27,Other,,11237,Healthfirst McD,,7/21/2020,,Not Detected,,
+1142,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/23/2020 0840,7/23/2020,Obstetrics,Female,Pregnant,30,Other,,11207,Not on file,29w4d,7/23/2020,,Negative,,
+1143,WOODHULL MEDICAL CENTER,WO ED ADULT , 07/28/2020 1837,7/29/2020,Ambulatory Surgery,Female,Pregnant,28,Other,,11221,Not on file,16w6d,7/29/2020,,Negative,,
+1144,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/29/2020 2316,7/30/2020,OB ED,Female,Pregnant,21,Other,,11208,Not on file,37w0d,7/30/2020,,Negative,,
+1145,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/28/2020 1049,7/28/2020,Obstetrics,Female,Pregnant,35,Other,,11207,Not on file,38w1d,7/28/2020,Abnormal,Positive,COVID-19 (confirmed),
+1146,WOODHULL MEDICAL CENTER,WO PRIMARY CARE , ,,Primary Care,Female,Pregnant,42,Other,,11208,Metroplus Comm,,7/31/2020,,Negative,,
+1147,WOODHULL MEDICAL CENTER,WO IP 7000 L&D , 07/28/2020 2129,7/30/2020,Obstetrics,Female,Pregnant,28,Black,,11206,Not on file,41w0d,7/29/2020,,Negative,,
+1148,WOODHULL MEDICAL CENTER,WO ED ADULT , 07/31/2020 0552,7/31/2020,Emergency,Female,Pregnant,30,Other,,11237,Not on file,,7/31/2020,,Negative,,
+1149,WOODHULL MEDICAL CENTER,WO ED ADULT , 07/23/2020 0851,7/23/2020,Emergency,Female,Pregnant,26,Other,,11206,Fidelis Care McD,21w5d,7/23/2020,,Negative,,
